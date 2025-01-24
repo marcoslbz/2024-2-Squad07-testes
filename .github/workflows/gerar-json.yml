@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *' # Executa o workflow diariamente à meia-noite UTC
   workflow_dispatch: # Permite execução manual do workflow
 
+permissions:
+  id-token: write
+  contents: write
+  
 jobs:
   gerar-json:
     runs-on: ubuntu-latest

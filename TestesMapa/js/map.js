@@ -45,25 +45,25 @@ fetch('./obrasgov/obras_com_lat_long.json') // Caminho do JSON
     .then(data => {
         const pinIcons = {
             concluida: L.icon({
-                iconUrl: '/TestesMapa/js/pins/concluida.png',
+                iconUrl: './js/pins/concluida.png',
                 iconSize: [32, 32], // Tamanho do ícone
                 iconAnchor: [16, 32], // Ponto de ancoragem
                 popupAnchor: [0, -32], // Ponto de ancoragem do popup
             }),
             emExecucao: L.icon({
-                iconUrl: '/TestesMapa/js/pins/em_execucao.png',
+                iconUrl: './js/pins/em_execucao.png',
                 iconSize: [35, 35],
                 iconAnchor: [16, 32],
                 popupAnchor: [0, -32],
             }),
             cadastrada: L.icon({
-                iconUrl: '/TestesMapa/js/pins/cadastrada.png',
+                iconUrl: './js/pins/cadastrada.png',
                 iconSize: [35, 35],
                 iconAnchor: [16, 32],
                 popupAnchor: [0, -32],
             }),
             inativada: L.icon({
-                iconUrl: '/TestesMapa/js/pins/inativada.png',
+                iconUrl: './js/pins/inativada.png',
                 iconSize: [32, 32],
                 iconAnchor: [16, 32],
                 popupAnchor: [0, -32],

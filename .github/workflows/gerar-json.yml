@@ -49,3 +49,18 @@ jobs:
           git add obras_com_lat_long.json
           git commit -m "Atualizando resultado.json gerado automaticamente"
           git push origin main
+
+      # Configurar GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Fazer upload da pasta TestesMapa como artefato para as Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './TestesMapa' # Caminho para a pasta com o index.html
+
+      # Deploy para o GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

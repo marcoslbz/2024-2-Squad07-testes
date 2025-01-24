@@ -31,6 +31,7 @@ jobs:
       # Passo 4: Executar o script para gerar o JSON
       - name: Rodar script para gerar JSON
         run: |
+          cd TestesMapa
           cd obrasgov 
           node obras_map.js
 

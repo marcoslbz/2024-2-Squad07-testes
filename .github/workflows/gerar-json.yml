@@ -24,7 +24,8 @@ jobs:
       # Passo 3: Instalar dependências
       - name: Instalar dependências
         run: |
-          cd obrasgov 
+          cd TestesMapa
+          cd obrasgov
           npm install
 
       # Passo 4: Executar o script para gerar o JSON
@@ -45,6 +46,7 @@ jobs:
       # Passo 6: Commit e push do arquivo JSON gerado
       - name: Commit e push do arquivo JSON
         run: |
+          cd TestesMapa
           cd obrasgov 
           git add obras_com_lat_long.json
           git commit -m "Atualizando resultado.json gerado automaticamente"

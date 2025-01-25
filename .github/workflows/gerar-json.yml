@@ -2,7 +2,7 @@ name: Gerar JSON diariamente
 
 on:
   schedule:
-    - cron: '0 * * * *' # Executa o workflow diariamente à meia-noite UTC
+    - cron: '0 */3 * * *' # Executa o workflow a cada 3 horas
   workflow_dispatch: # Permite execução manual do workflow
 
 permissions:

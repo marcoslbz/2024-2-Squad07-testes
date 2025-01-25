@@ -1,8 +1,8 @@
-name: Gerar JSON diariamente
+name: "[ci/cd] Gera o JSON e atualiza a página"
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Executa o workflow a cada 3 horas
+    - cron: '0 * * * *' # Executa o workflow a cada 3 horas
   workflow_dispatch: # Permite execução manual do workflow
 
 permissions:
@@ -55,7 +55,7 @@ jobs:
           cd TestesMapa
           cd obrasgov 
           git add obras_com_lat_long.json
-          git commit -m "Atualizando resultado.json gerado automaticamente"
+          git commit -m "cd: Atualiza as obras do JSON"
           git push origin main
 
       # Configurar GitHub Pages

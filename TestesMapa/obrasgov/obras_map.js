@@ -91,85 +91,184 @@ async function saveToJsonFile(data, filename) {
     }
 }
 
-// Função principal
+// // Função principal
+// async function main() {
+//     const uf = "DF";
+//     const tamanhoDaPagina = 10; // Tamanho configurado para 10 obras por página
+//     let pagina = 0;
+//     let obrasComGeometria = [];
+//     let totalElements = null;
+//     let paginasVaziasConsecutivas = 0; // Contador de páginas vazias consecutivas
+//     const limitePaginasVazias = 5; // Limite para parar o loop
+
+//     console.log("Buscando dados das obras...");
+
+//     while (true) {
+//         const response = await fetchObrasPorUF(uf, pagina, tamanhoDaPagina);
+//         const { content: obras } = response;
+
+//         if (pagina === 0 && response.totalElements) {
+//             totalElements = response.totalElements; // Captura o número total de obras
+//             console.log(`Número total de obras (relatado pela API): ${totalElements}`);
+//         }
+
+//         if (obras.length === 0) {
+//             paginasVaziasConsecutivas++;
+//             console.log(`Página ${pagina} vazia. (${paginasVaziasConsecutivas}/${limitePaginasVazias} páginas vazias consecutivas)`);
+
+//             if (paginasVaziasConsecutivas >= limitePaginasVazias) {
+//                 console.log("Muitas páginas vazias consecutivas. Encerrando o loop.");
+//                 break;
+//             }
+
+//             pagina++;
+//             await new Promise(resolve => setTimeout(resolve, 30000)); // Delay entre páginas
+//             continue;
+//         }
+
+//         paginasVaziasConsecutivas = 0; // Reseta o contador se encontrar uma página com dados
+
+//         const obrasProcessadas = await Promise.all(
+//             obras.map((obra) =>
+//                 limit(async () => {
+//                     try {
+//                         const geometriaData = await fetchGeometria(obra.idUnico);
+
+//                         if (geometriaData && geometriaData[0] && geometriaData[0].geometriaWkt) {
+//                             const coords = extractLatLong(geometriaData[0].geometriaWkt);
+//                             if (coords) {
+//                                 obra.latitude = coords.latitude;
+//                                 obra.longitude = coords.longitude;
+//                             }
+//                         }
+//                         return obra;
+//                     } catch (error) {
+//                         console.error(`Erro ao processar geometria para ID ${obra.idUnico}:`, error.message);
+//                         obra.latitude = null;
+//                         obra.longitude = null;
+//                         return obra;
+//                     }
+//                 })
+//             )
+//         );
+
+//         obrasComGeometria = [...obrasComGeometria, ...obrasProcessadas];
+//         pagina++;
+
+//         if (obrasComGeometria.length >= totalElements) break;
+
+//         console.log(`Pausa entre páginas por 30 segundos. Processadas ${obrasComGeometria.length} obras.`);
+//         await new Promise(resolve => setTimeout(resolve, 30000)); // Delay entre páginas
+//     }
+
+//     console.log("Salvando resultados...");
+//     await saveToJsonFile(obrasComGeometria, 'obras_com_lat_long.json');
+
+//     if (falhas.length > 0) {
+//         console.log("IDs com falhas:", falhas);
+//         await saveToJsonFile(falhas, 'falhas.json');
+//     }
+
+//     console.log(`Processamento concluído. Total de obras processadas: ${obrasComGeometria.length}`);
+// }
+
+// main().catch((error) => console.error("Erro na execução principal:", error.message));
+
 async function main() {
     const uf = "DF";
     const tamanhoDaPagina = 10; // Tamanho configurado para 10 obras por página
-    let pagina = 0;
-    let obrasComGeometria = [];
-    let totalElements = null;
-    let paginasVaziasConsecutivas = 0; // Contador de páginas vazias consecutivas
-    const limitePaginasVazias = 5; // Limite para parar o loop
+    const metaObras = 100; // Meta mínima de obras processadas
+    const limitePaginasVazias = 5; // Limite para parar o loop por páginas vazias
+    let ciclo = 0; // Contador de ciclos
+    let continuar = true;
 
-    console.log("Buscando dados das obras...");
+    while (continuar) {
+        ciclo++;
+        let pagina = 0;
+        let obrasComGeometria = [];
+        let totalElements = null;
+        let paginasVaziasConsecutivas = 0; // Contador de páginas vazias consecutivas
 
-    while (true) {
-        const response = await fetchObrasPorUF(uf, pagina, tamanhoDaPagina);
-        const { content: obras } = response;
+        console.log(`Iniciando ciclo ${ciclo} para buscar dados das obras...`);
 
-        if (pagina === 0 && response.totalElements) {
-            totalElements = response.totalElements; // Captura o número total de obras
-            console.log(`Número total de obras (relatado pela API): ${totalElements}`);
-        }
+        while (true) {
+            const response = await fetchObrasPorUF(uf, pagina, tamanhoDaPagina);
+            const { content: obras } = response;
 
-        if (obras.length === 0) {
-            paginasVaziasConsecutivas++;
-            console.log(`Página ${pagina} vazia. (${paginasVaziasConsecutivas}/${limitePaginasVazias} páginas vazias consecutivas)`);
-
-            if (paginasVaziasConsecutivas >= limitePaginasVazias) {
-                console.log("Muitas páginas vazias consecutivas. Encerrando o loop.");
-                break;
+            if (pagina === 0 && response.totalElements) {
+                totalElements = response.totalElements; // Captura o número total de obras
+                console.log(`Número total de obras (relatado pela API): ${totalElements}`);
             }
 
+            if (obras.length === 0) {
+                paginasVaziasConsecutivas++;
+                console.log(`Página ${pagina} vazia. (${paginasVaziasConsecutivas}/${limitePaginasVazias} páginas vazias consecutivas)`);
+
+                if (paginasVaziasConsecutivas >= limitePaginasVazias) {
+                    console.log("Muitas páginas vazias consecutivas. Encerrando o loop.");
+                    break;
+                }
+
+                pagina++;
+                await new Promise(resolve => setTimeout(resolve, 30000)); // Delay entre páginas
+                continue;
+            }
+
+            paginasVaziasConsecutivas = 0; // Reseta o contador se encontrar uma página com dados
+
+            const obrasProcessadas = await Promise.all(
+                obras.map((obra) =>
+                    limit(async () => {
+                        try {
+                            const geometriaData = await fetchGeometria(obra.idUnico);
+
+                            if (geometriaData && geometriaData[0] && geometriaData[0].geometriaWkt) {
+                                const coords = extractLatLong(geometriaData[0].geometriaWkt);
+                                if (coords) {
+                                    obra.latitude = coords.latitude;
+                                    obra.longitude = coords.longitude;
+                                }
+                            }
+                            return obra;
+                        } catch (error) {
+                            console.error(`Erro ao processar geometria para ID ${obra.idUnico}:`, error.message);
+                            obra.latitude = null;
+                            obra.longitude = null;
+                            return obra;
+                        }
+                    })
+                )
+            );
+
+            obrasComGeometria = [...obrasComGeometria, ...obrasProcessadas];
             pagina++;
+
+            if (obrasComGeometria.length >= totalElements) break;
+
+            console.log(`Pausa entre páginas por 30 segundos. Processadas ${obrasComGeometria.length} obras.`);
             await new Promise(resolve => setTimeout(resolve, 30000)); // Delay entre páginas
-            continue;
         }
 
-        paginasVaziasConsecutivas = 0; // Reseta o contador se encontrar uma página com dados
+        console.log(`Ciclo ${ciclo} concluído. Obras processadas: ${obrasComGeometria.length}`);
 
-        const obrasProcessadas = await Promise.all(
-            obras.map((obra) =>
-                limit(async () => {
-                    try {
-                        const geometriaData = await fetchGeometria(obra.idUnico);
+        if (obrasComGeometria.length >= metaObras) {
+            console.log("Meta de obras atingida. Salvando resultados...");
+            await saveToJsonFile(obrasComGeometria, `obras_com_lat_long_ciclo_${ciclo}.json`);
+            continuar = false; // Sai do loop principal
+        } else {
+            console.log(`Meta não atingida (${obrasComGeometria.length}/${metaObras}). Reiniciando...`);
+        }
 
-                        if (geometriaData && geometriaData[0] && geometriaData[0].geometriaWkt) {
-                            const coords = extractLatLong(geometriaData[0].geometriaWkt);
-                            if (coords) {
-                                obra.latitude = coords.latitude;
-                                obra.longitude = coords.longitude;
-                            }
-                        }
-                        return obra;
-                    } catch (error) {
-                        console.error(`Erro ao processar geometria para ID ${obra.idUnico}:`, error.message);
-                        obra.latitude = null;
-                        obra.longitude = null;
-                        return obra;
-                    }
-                })
-            )
-        );
+        if (falhas.length > 0) {
+            console.log("IDs com falhas:", falhas);
+            await saveToJsonFile(falhas, `falhas_ciclo_${ciclo}.json`);
+        }
 
-        obrasComGeometria = [...obrasComGeometria, ...obrasProcessadas];
-        pagina++;
-
-        if (obrasComGeometria.length >= totalElements) break;
-
-        console.log(`Pausa entre páginas por 30 segundos. Processadas ${obrasComGeometria.length} obras.`);
-        await new Promise(resolve => setTimeout(resolve, 30000)); // Delay entre páginas
+        // Pequena pausa antes de reiniciar
+        await new Promise(resolve => setTimeout(resolve, 60000)); // 1 minuto de pausa entre ciclos
     }
 
-    console.log("Salvando resultados...");
-    await saveToJsonFile(obrasComGeometria, 'obras_com_lat_long.json');
-
-    if (falhas.length > 0) {
-        console.log("IDs com falhas:", falhas);
-        await saveToJsonFile(falhas, 'falhas.json');
-    }
-
-    console.log(`Processamento concluído. Total de obras processadas: ${obrasComGeometria.length}`);
+    console.log("Processamento finalizado com sucesso.");
 }
 
 main().catch((error) => console.error("Erro na execução principal:", error.message));

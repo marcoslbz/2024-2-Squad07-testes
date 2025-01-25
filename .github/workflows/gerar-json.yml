@@ -29,14 +29,14 @@ jobs:
       # Passo 3: Instalar dependências
       - name: Instalar dependências
         run: |
-          cd TestesMapa
+          cd mapa
           cd obrasgov
           npm install
 
       # Passo 4: Executar o script para gerar o JSON
       # - name: Rodar script para gerar JSON
       #   run: |
-      #     cd TestesMapa
+      #     mapa
       #     cd obrasgov 
       #     node obras_map.js
 
@@ -52,7 +52,7 @@ jobs:
       # # Passo 6: Commit e push do arquivo JSON gerado
       # - name: Commit e push do arquivo JSON
       #   run: |
-      #     cd TestesMapa
+      #     cd mapa
       #     cd obrasgov 
       #     git add obras_com_lat_long.json
       #     git commit -m "cd: Atualiza as obras do JSON"
@@ -62,11 +62,11 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Fazer upload da pasta TestesMapa como artefato para as Pages
+      # Fazer upload da pasta mapa como artefato para as Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './TestesMapa' # Caminho para a pasta com o index.html
+          path: './mapa' # Caminho para a pasta com o index.html
 
       # Deploy para o GitHub Pages
       - name: Deploy to GitHub Pages

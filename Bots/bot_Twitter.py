@@ -213,7 +213,7 @@ def run_bot(out_image_dir):
 
 def html_generate(obra):
 
-    directory = "TestesMapa"
+    directory = "mapa"
     if not os.path.exists(directory):
         os.makedirs(directory) 
 

@@ -1,4 +1,4 @@
-name: "[ci/cd] Gera o JSON e atualiza a página"
+name: "[CI/CD] Gera o JSON e atualiza a página"
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
   workflow_dispatch: # Permite execução manual do workflow
 
 permissions:
-  # id-token: write
-  # contents: write
+  id-token: write
+  contents: write
   pages: write
 
 jobs:

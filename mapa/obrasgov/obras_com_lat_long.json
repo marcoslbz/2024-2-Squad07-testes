@@ -31584,6 +31584,861 @@
     "longitude": -47.84472
   },
   {
+    "idUnico": "4466.53-28",
+    "nome": "Obra de Desenvolvimento de Teste da Websis - Fabrica de Software - MDR",
+    "cep": "70067-901",
+    "endereco": "Esplanada dos Ministérios, Bloco E, S N - Zona Cvico-Administrativa, sala 612",
+    "descricao": "Projeto de desenvolvimento do MDR para integrar com api do CIPI.",
+    "funcaoSocial": "Habitar o envio de empreendimentos pelo MDR para o CIPI em lote.",
+    "metaGlobal": "Possibilitar subir um arquivo com varias obras a serem cadastradas e obter o id CIPI",
+    "dataInicialPrevista": "2021-08-13",
+    "dataFinalPrevista": "2021-08-18",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-12",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-12",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "JUSTICA FEDERAL",
+        "codigo": 12800
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA CIDADANIA",
+        "codigo": 235874
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000000000000D8F147C0055BA95DE49B2FC0",
+        "dataCriacao": "2021-11-12",
+        "origem": "cipiws",
+        "dataMetadado": "2020-01-01",
+        "infoAdicionais": null,
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 300000
+      }
+    ],
+    "latitude": -15.804476668284687,
+    "longitude": -47.889404296875
+  },
+  {
+    "idUnico": "44712.53-15",
+    "nome": "HOSPITAL DE FORÇA AÉREA DE BRASÍLIA",
+    "cep": "71.607-900",
+    "endereco": "Área Militar do Aeroporto Internacional de Brasília - Lago Sul ",
+    "descricao": "READEQUAÇÃO DA ÁREA DOS AMBULATÓRIOS (NORTE) E IMPLANTAÇÃO DA CENTRAL DE MANIPULAÇÃO E INFUSÃO DE QUIMIOTERÁPICOS DO HFAB",
+    "funcaoSocial": "A finalidade da intervenção é que o HFAB possa continuar desempenhando sua missão principal e continuar dentro dos\npadrões estabelecidos pelas normas de Vigilância Sanitária.",
+    "metaGlobal": "A construção do abrigo externo de lixo viabilizará um ambiente mais adequado para a acomodação do lixo, tendo em vista o\naumento do volume produzido pela expansão das áreas assistenciais com a finalização das demais obras de readequação\ndo HFAB.",
+    "dataInicialPrevista": "2024-11-20",
+    "dataFinalPrevista": "2025-07-18",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-11-06",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Federal",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-11-06",
+    "tomadores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 4,
+        "descricao": "Saúde",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 47,
+        "descricao": "Instituições Hospitalares Federais",
+        "idTipo": 4
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000016139B8F6BF347C0A19A591FF4BC2FC0",
+        "dataCriacao": "2024-11-06",
+        "origem": "Manual",
+        "dataMetadado": "2024-11-06",
+        "infoAdicionais": "HFAB - Hospital de Força Aérea de Brasília",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "HFAB - Hospital de Força Aérea de Brasília",
+        "enderecoAreaExecutora": "Área Militar do Aeroporto Internacional de Brasília - Lago Sul",
+        "cepAreaExecutora": "71607-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 5077000
+      }
+    ],
+    "latitude": -15.8690500065689,
+    "longitude": -47.90172
+  },
+  {
+    "idUnico": "4499.53-34",
+    "nome": "Obra de Desenvolvimento de Teste da Websis - Fabrica de Software - MDRR",
+    "cep": "70067-901",
+    "endereco": "Esplanada dos Ministérios, Bloco E, S N - Zona Cvico-Administrativa, sala 612R",
+    "descricao": "Projeto de desenvolvimento do MDR para integrar com api do CIPI.R",
+    "funcaoSocial": "Habitar o envio de empreendimentos pelo MDR para o CIPI em lote.R",
+    "metaGlobal": "Possibilitar subir um arquivo com varias obras a serem cadastradas e obter o id CIPIR",
+    "dataInicialPrevista": "2021-08-13",
+    "dataFinalPrevista": "2021-08-18",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-16",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-16",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "JUSTICA FEDERAL",
+        "codigo": 12800
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA CIDADANIA",
+        "codigo": 235874
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000000E000000D8F147C0055BA95DE49B2FC0",
+        "dataCriacao": "2021-11-16",
+        "origem": "cipiws",
+        "dataMetadado": "2020-01-01",
+        "infoAdicionais": null,
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 300000
+      }
+    ],
+    "latitude": -15.804476668284687,
+    "longitude": -47.8894042968751
+  },
+  {
+    "idUnico": "4503.53-86",
+    "nome": "Obra de Desenvolvimento de Teste da Websis - Fabrica de Software - MDRR",
+    "cep": "70067-901",
+    "endereco": "Esplanada dos Ministérios, Bloco E, S N - Zona Cvico-Administrativa, sala 612R",
+    "descricao": "Projeto de desenvolvimento do MDR para integrar com api do CIPI.R",
+    "funcaoSocial": "Habitar o envio de empreendimentos pelo MDR para o CIPI em lote.R",
+    "metaGlobal": "Possibilitar subir um arquivo com varias obras a serem cadastradas e obter o id CIPIR",
+    "dataInicialPrevista": "2021-08-13",
+    "dataFinalPrevista": "2021-08-18",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-16",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-16",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000001C000000D8F147C0055BA95DE49B2FC0",
+        "dataCriacao": "2021-11-16",
+        "origem": "cipiws",
+        "dataMetadado": "2020-01-01",
+        "infoAdicionais": null,
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 300000
+      }
+    ],
+    "latitude": -15.804476668284687,
+    "longitude": -47.8894042968752
+  },
+  {
+    "idUnico": "4507.53-35",
+    "nome": "Obra de Desenvolvimento de Teste da Websis - Fabrica de Software - MDRR",
+    "cep": "70067-901",
+    "endereco": "Esplanada dos Ministérios, Bloco E, S N - Zona Cvico-Administrativa, sala 612R",
+    "descricao": "Projeto de desenvolvimento do MDR para integrar com api do CIPI.R",
+    "funcaoSocial": "Habitar o envio de empreendimentos pelo MDR para o CIPI em lote.R",
+    "metaGlobal": "Possibilitar subir um arquivo com varias obras a serem cadastradas e obter o id CIPIR",
+    "dataInicialPrevista": "2021-08-13",
+    "dataFinalPrevista": "2021-08-18",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-16",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-16",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000046000000D8F147C0055BA95DE49B2FC0",
+        "dataCriacao": "2021-11-16",
+        "origem": "cipiws",
+        "dataMetadado": "2020-01-01",
+        "infoAdicionais": null,
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 300000
+      }
+    ],
+    "latitude": -15.804476668284687,
+    "longitude": -47.8894042968755
+  },
+  {
+    "idUnico": "45081.53-81",
+    "nome": "Obra de instalação de plataforma elevatória vertical para adequação da acessibilidade do Edifício UAC da Faculdade de Ceilândia (FCE)",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Obra de instalação de plataforma elevatória vertical para adequação da acessibilidade do Edifício UAC da Faculdade de Ceilândia (FCE)",
+    "funcaoSocial": "Necessidade de adaptação da edificação às normas vigentes de acessibilidade (ABNT NBR 9050/2020), de forma que possibilite o acesso a toda a edificação por todos os usuários de forma igualitária.  \n\nConsiderando a época de construção da edificação, está prevista uma etapa seguinte de reformas, contemplando a edificação como um todo, incluindo a adequação e instalação de guarda-corpos, corrimãos, rampas e sinalização, entre outros itens.",
+    "metaGlobal": "Com vistas à contratação, a empresa vencedora do certame deverá comprovar sua capacidade técnico-profissional na execução de obra com características semelhantes, mediante a apresentação dos documentos elencados no edital da licitação.\n\nOs serviços serão executados por mão de obra qualificada e deverão obedecer rigorosamente às instruções contidas nos projetos e seus documentos fornecidos, bem como as contidas nas disposições cabíveis do Decreto N º 92.100 de 10.12.85 e as normas técnicas da ABNT.\n\nDeverá ter à frente dos serviços responsável técnico devidamente habilitado, que deverá permanecer no serviço durante todas as horas de trabalho, e pessoal especializado de comprovada competência. Caberá à Contratada a responsabilidade pelo cumprimento das prescrições referentes às leis trabalhistas, de previdência social e de segurança contra acidentes de trabalho.\n\nAlém disso, a empresa Contratada deverá apresentar um plano de uso racional de água e energia durante a obra e deverá manter um rígido controle sobre o uso destes insumos, evitando o seu desperdício. Deverá também apresentar Plano de Gestão de Resíduos sólidos de acordo com as disposições da Resolução nº 307 de 05/07/2002 do CONAMA (incluindo classificação, separação, transporte, estocagem no canteiro, quantificação e destinação).",
+    "dataInicialPrevista": "2024-11-20",
+    "dataFinalPrevista": "2025-12-24",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-11-13",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Com vistas à contratação, a empresa vencedora do certame deverá comprovar sua capacidade técnico-profissional na execução de obra com características semelhantes, mediante a apresentação dos documentos elencados no edital da licitação.\n\nOs serviços serão executados por mão de obra qualificada e deverão obedecer rigorosamente às instruções contidas nos projetos e seus documentos fornecidos, bem como as contidas nas disposições cabíveis do Decreto N º 92.100 de 10.12.85 e as normas técnicas da ABNT.\n\nDeverá ter à frente dos serviços responsável técnico devidamente habilitado, que deverá permanecer no serviço durante todas as horas de trabalho, e pessoal especializado de comprovada competência. Caberá à Contratada a responsabilidade pelo cumprimento das prescrições referentes às leis trabalhistas, de previdência social e de segurança contra acidentes de trabalho.\n\nAlém disso, a empresa Contratada deverá apresentar um plano de uso racional de água e energia durante a obra e deverá manter um rígido controle sobre o uso destes insumos, evitando o seu desperdício. Deverá também apresentar Plano de Gestão de Resíduos sólidos de acordo com as disposições da Resolução nº 307 de 05/07/2002 do CONAMA (incluindo classificação, separação, transporte, estocagem no canteiro, quantificação e destinação).",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-11-13",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 8
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000004DF8A57EDE0C48C0FDFE829352B02FC0",
+        "dataCriacao": "2024-11-13",
+        "origem": "Manual",
+        "dataMetadado": "2024-11-13",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura ",
+        "enderecoAreaExecutora": "Campus Darcy Ribeiro",
+        "cepAreaExecutora": "70900-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 100434.3
+      }
+    ],
+    "latitude": -15.8443800065429,
+    "longitude": -48.10054
+  },
+  {
+    "idUnico": "4529.53-06",
+    "nome": "Obra de construção do Almoxarifado Central da Base Administrativa do QGEx, em Brasília–DF",
+    "cep": "70.630-901",
+    "endereco": "SMU - Brasília, DF",
+    "descricao": "Obra de construção do Almoxarifado Central da Base Administrativa do QGEx, em Brasília–DF",
+    "funcaoSocial": "\tMelhor aproveitamento dos recursos humanos e materiais e emprego mais judicioso dos recursos orçamentários para o atendimento das necessidades das OM abrangidas pelo projeto. Centralização das atividades administrativas ligadas à licitação, aquisição, recebimento, armazenagem e distribuição de materiais comuns (expediente, fardamento, higiene, informática, limpeza, etc.), objetivando a economia da administração das OM do QGEx e mitigando o desvio de pessoal operacional e especializado para ações administrativas. Redução de efeitos empregados na atividade-meio, concomitante com a melhor alocação dos recursos humanos. Racionalização dos efeitos do ODG e dos ODS/ODOp/OADI, atualmente, empregados nas atividades de Almoxarifado. Busca pela melhoria continua de processos, visando aumentar a eficiência e eficácia da gestão do bem público. Melhoria da segurança interna do QGEx, ao reduzia a entrada de fornecedores em seu interior. A implantação do Almoxarifado Central da Base Administrativa do QGEx atenderá à demanda PEEx 2016-2019/3º Ed., contribuindo com o Objetivo Estratégico do Exército (OEE-10) – “AUMENTAR A EFETIVIDADE NA GESTÃO DO BEM PÚBLICO”, da Estratégia 10.2 – Implantação da Racionalização Administrativa, da Ação Estratégica 10.2.2 – Racionalizar as estruturas organizacionais.",
+    "metaGlobal": "Obra de construção do Almoxarifado Central da Base Administrativa do QGEx, em Brasília–DF",
+    "dataInicialPrevista": "2019-04-22",
+    "dataFinalPrevista": "2022-03-07",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 8
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000094DE37BEF6F447C0F6DAB2832F8C2FC0",
+        "dataCriacao": "2021-11-17",
+        "origem": "cipiws",
+        "dataMetadado": "2021-11-17",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3928113.56
+      }
+    ],
+    "latitude": -15.7738000064687,
+    "longitude": -47.91378
+  },
+  {
+    "idUnico": "4539.53-84",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-901",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A4A1703DE2E847C08A46FB1503A12FC0",
+        "dataCriacao": "2021-11-22",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "20211122-Ronald Alves - Informações adicionais",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 100000000
+      }
+    ],
+    "latitude": -15.814476668284687,
+    "longitude": -47.819404296871
+  },
+  {
+    "idUnico": "4540.53-87",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-901",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000121D85EB29EA47C00B324DCE21A62FC0",
+        "dataCriacao": "2021-11-22",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "20211122-Ronald Alves - Informações adicionais",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1000000001
+      }
+    ],
+    "latitude": -15.82447666828468,
+    "longitude": -47.829404296872
+  },
+  {
+    "idUnico": "4541.53-44",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-901",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Recuperação",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000008098999971EB47C0911D9F8640AB2FC0",
+        "dataCriacao": "2021-11-22",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "20211122-Ronald Alves - Informações adicionais",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 300000002
+      }
+    ],
+    "latitude": -15.834476668284681,
+    "longitude": -47.839404296873
+  },
+  {
     "idUnico": "4542.53-01",
     "nome": "202111-22-Ronald 1",
     "cep": "70067-901",

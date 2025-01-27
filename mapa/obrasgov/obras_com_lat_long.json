@@ -1,263 +1,5 @@
 [
   {
-    "idUnico": "21324.53-75",
-    "nome": "Reforma Viveiro Agroecologia",
-    "cep": "73.380-900",
-    "endereco": "Rodovia DF – 128, km 21, Zona Rural de Planaltina",
-    "descricao": "Reforma/reestruturação do prédio de aulas práticas do curso de agroecologia, onde funciona um viveiro de plantas e incubatório de sementes. A edificação está com telhado danificado e estruturas de madeira danificados",
-    "funcaoSocial": "Escolar",
-    "metaGlobal": "aumentar o alcance do conhecimento e aulas práticas nas instituições de ensino",
-    "dataInicialPrevista": "2023-08-01",
-    "dataFinalPrevista": "2023-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-04-14",
-    "especie": "Recuperação",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-04-14",
-    "tomadores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "executores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000006A183E22A6D847C0661BF33AC7502FC0",
-        "dataCriacao": "2023-04-14",
-        "origem": "Manual",
-        "dataMetadado": "2023-04-14",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Instituto Federal de Brasilia",
-        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
-        "cepAreaExecutora": "70070-906",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 700000
-      }
-    ],
-    "latitude": -15.6577700063478,
-    "longitude": -47.69257
-  },
-  {
-    "idUnico": "21327.53-34",
-    "nome": "Reforma Agroecologia",
-    "cep": "73.380-900",
-    "endereco": "Rodovia DF – 128, km 21, Zona Rural de Planaltina",
-    "descricao": "Reforma do prédio de salas de aulas e laboratórios do curso de agroecologia do Campus Planaltina, incluindo um reforço na fundação, reforma do telhado, reforma e adequação dos banheiros, adequação dos acessos a edificação, entre outros.",
-    "funcaoSocial": "atender a comunidade acadêmica do Campus Planaltina principalmente no curso de agroecologia",
-    "metaGlobal": "aumentar o alcance do conhecimento com  aulas teóricas  e práticas nas instituições de ensino",
-    "dataInicialPrevista": "2023-09-01",
-    "dataFinalPrevista": "2024-03-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-04-14",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-04-14",
-    "tomadores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "executores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000029B3412619D947C0BBE9EFA5D5502FC0",
-        "dataCriacao": "2023-04-14",
-        "origem": "Manual",
-        "dataMetadado": "2023-04-14",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Instituto Federal de Brasilia",
-        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
-        "cepAreaExecutora": "70070-906",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 3300000
-      }
-    ],
-    "latitude": -15.6578800063479,
-    "longitude": -47.69608
-  },
-  {
-    "idUnico": "21333.53-86",
-    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
-    "cep": "70.070-906",
-    "endereco": "SAUS quadra 2 BLOCO E",
-    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
-    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
-    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
-    "dataInicialPrevista": "2023-08-01",
-    "dataFinalPrevista": "2024-03-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-04-14",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-04-14",
-    "tomadores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "executores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000B83B6BB75DF047C06DC67314059A2FC0",
-        "dataCriacao": "2023-04-14",
-        "origem": "Manual",
-        "dataMetadado": "2023-04-14",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Instituto Federal de Brasilia",
-        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
-        "cepAreaExecutora": "70070-906",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2500000
-      }
-    ],
-    "latitude": -15.8008200064971,
-    "longitude": -47.87786
-  },
-  {
     "idUnico": "21335.53-99",
     "nome": "Reforma do Centro de Múltiplas Funções do Campus São Sebastião",
     "cep": "71.697-040",
@@ -865,5 +607,258 @@
     ],
     "latitude": -16.04738,
     "longitude": -48.14698
+  },
+  {
+    "idUnico": "4539.53-84",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-901",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A4A1703DE2E847C08A46FB1503A12FC0",
+        "dataCriacao": "2021-11-22",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "20211122-Ronald Alves - Informações adicionais",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 100000000
+      }
+    ],
+    "latitude": -15.814476668284687,
+    "longitude": -47.819404296871
+  },
+  {
+    "idUnico": "33082.53-80",
+    "nome": "Pavimentação do acesso a Escola Classe Jardim dos Ipês",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Pavimentação de estradas vicinais",
+    "funcaoSocial": "Famílias produtoras de café, cana de açúcar, fruticultura e hortaliças da região rural de Arapoanga e Planaltina-DF.. Necessidade de se abrandar a poeira oriunda do período de seca e risco de acidentes automotivos também  em épocas de chuva devido aos  atoleiros e água empoçadas. Para os produtores rurais isto impede o deslocamento das mercadorias, pois dificulta  a passagem dos caminhões.. Melhora do fluxo de produtores na região em todas as estações do ano atendendo aos objetivos do programa que consiste no apoio à infraestrutura produtiva, compreendendo: construção e manutenção de vias e obras rodoviárias estaduais e municipais destinadas à integração de escoamento produtivo.",
+    "metaGlobal": "Pavimentação de estradas vicinais",
+    "dataInicialPrevista": "2023-09-21",
+    "dataFinalPrevista": "2028-09-21",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-01-04",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-01-04",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+        "codigo": 70532000103
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 24,
+        "descricao": "Infraestrutura Urbana e Mobilidade",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 58,
+        "descricao": "Pavimentação",
+        "idTipo": 24
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000079758E01D9CF47C0CA37DBDC984E2FC0",
+        "dataCriacao": "2024-01-04",
+        "origem": "WKT",
+        "dataMetadado": "2024-01-04",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 056593/2023 e instrumento 954016/2023",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
+        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
+        "cepAreaExecutora": "70310-500",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 811390.99
+      }
+    ],
+    "latitude": -15.65351,
+    "longitude": -47.62381
+  },
+  {
+    "idUnico": "20285.53-58",
+    "nome": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
+    "cep": "70.790-020",
+    "endereco": "902/904 - Asa Norte, Brasília - DF",
+    "descricao": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
+    "funcaoSocial": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
+    "metaGlobal": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
+    "dataInicialPrevista": "2023-03-02",
+    "dataFinalPrevista": "2024-03-01",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-03-01",
+    "especie": "Recuperação",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-03-01",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000E71DA7E848F247C0177BAF45F08F2FC0",
+        "dataCriacao": "2023-03-01",
+        "origem": "Manual",
+        "dataMetadado": "2023-03-01",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "SILOAGUA ENGENHARIA LTDA",
+        "enderecoAreaExecutora": "Rua Fortaleza, 211",
+        "cepAreaExecutora": "74830-060",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 769000
+      }
+    ],
+    "latitude": -15.7811300064764,
+    "longitude": -47.89285
   }
 ]

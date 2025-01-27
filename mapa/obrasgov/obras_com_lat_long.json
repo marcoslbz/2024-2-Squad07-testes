@@ -1,5 +1,91 @@
 [
   {
+    "idUnico": "21333.53-86",
+    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 BLOCO E",
+    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
+    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-08-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000B83B6BB75DF047C06DC67314059A2FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.8008200064971,
+    "longitude": -47.87786
+  },
+  {
     "idUnico": "21335.53-99",
     "nome": "Reforma do Centro de Múltiplas Funções do Campus São Sebastião",
     "cep": "71.697-040",
@@ -516,185 +602,6 @@
     "longitude": -47.90082
   },
   {
-    "idUnico": "19176.53-10",
-    "nome": "Caminho das Escolas - Ponte Alta (Gama)",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Pavimentação de rodovias distritais, estradas vicinais e/ou vias locais com consequente melhoria de vida para a população local.",
-    "funcaoSocial": "Estudantes, professores, servidores das escolas rurais, bem como produtores localizados próximos às rodovias (distritais, estradas vicinais e vias locais) beneficiadas na região do Gama.. Eliminar poeira oriunda do período de seca e muito prejudicial à saúde das pessoas e eliminar risco de acidentes em épocas de chuva por causa de atoleiros, água empossada com a pavimentação de acessos às escolas rurais (rodovias distritais, estradas vicinais e vias locais). Melhoria no desenvolvimento social, facilitando o acesso à educação e econômico desses locais, tem em vista a garantia de escoamento dos produtos agrícolas em todas as épocas do ano.",
-    "metaGlobal": "Pavimentação de rodovias distritais, estradas vicinais e/ou vias locais com consequente melhoria de vida para a população local.",
-    "dataInicialPrevista": "2022-12-30",
-    "dataFinalPrevista": "2026-12-30",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-01-10",
-    "especie": "Construção",
-    "natureza": "Projeto de Investimento em Infraestrutura",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Caminho das Escolas",
-    "uf": "DF",
-    "qdtEmpregosGerados": "50",
-    "descPopulacaoBeneficiada": "Estudantes das Escolas Rurais e moradores das proximidades.",
-    "populacaoBeneficiada": "180000",
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-01-10",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
-        "codigo": 70532000103
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 24,
-        "descricao": "Infraestrutura Urbana e Mobilidade",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 58,
-        "descricao": "Pavimentação",
-        "idTipo": 24
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000042959A3DD01248C0077C7E18210C30C0",
-        "dataCriacao": "2023-01-10",
-        "origem": "WKT",
-        "dataMetadado": "2023-01-10",
-        "infoAdicionais": "Cadastro automatizado da obra pela Plataforma +Brasil da proposta 027740/2022 e instrumento 937562/2022",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0101000000D769A4A5F20E48C02D095053CBF62FC0",
-        "dataCriacao": "2023-01-10",
-        "origem": "WKT",
-        "dataMetadado": "2023-01-10",
-        "infoAdicionais": "Cadastro automatizado da obra pela Plataforma +Brasil da proposta 027740/2022 e instrumento 937562/2022",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2870210
-      }
-    ],
-    "latitude": -16.04738,
-    "longitude": -48.14698
-  },
-  {
-    "idUnico": "4539.53-84",
-    "nome": "202111-22-Ronald 1",
-    "cep": "70067-901",
-    "endereco": "2021122-Ronald - Endereço Completo",
-    "descricao": "2021122-Ronald - Descrição do Projeto",
-    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
-    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
-    "dataInicialPrevista": "2021-12-10",
-    "dataFinalPrevista": "2021-12-10",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-11-17",
-    "especie": "Reforma",
-    "natureza": "Projeto de Investimento em Infraestrutura",
-    "naturezaOutras": "outros",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-11-17",
-    "tomadores": [
-      {
-        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
-        "codigo": 26230
-      }
-    ],
-    "executores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 45,
-        "descricao": "Desenvolvimento",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 38,
-        "descricao": "Saneamento",
-        "idTipo": 45
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000A4A1703DE2E847C08A46FB1503A12FC0",
-        "dataCriacao": "2021-11-22",
-        "origem": "cipiws",
-        "dataMetadado": "2021-12-10",
-        "infoAdicionais": "20211122-Ronald Alves - Informações adicionais",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 100000000
-      }
-    ],
-    "latitude": -15.814476668284687,
-    "longitude": -47.819404296871
-  },
-  {
     "idUnico": "33082.53-80",
     "nome": "Pavimentação do acesso a Escola Classe Jardim dos Ipês",
     "cep": null,
@@ -776,19 +683,19 @@
     "longitude": -47.62381
   },
   {
-    "idUnico": "20285.53-58",
-    "nome": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
-    "cep": "70.790-020",
-    "endereco": "902/904 - Asa Norte, Brasília - DF",
-    "descricao": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
-    "funcaoSocial": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
-    "metaGlobal": "Substituição parcial dos brises do Colégio Militar de Brasília em Brasília-DF",
-    "dataInicialPrevista": "2023-03-02",
-    "dataFinalPrevista": "2024-03-01",
+    "idUnico": "21693.53-84",
+    "nome": "Construção da Pista Coberta do 1º Regimento de Cavalaria de Guarda em Brasília/DF.",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Construção da Pista Coberta do 1º Regimento de Cavalaria de Guarda em Brasília/DF.",
+    "funcaoSocial": "Atender às necessidades de treinamento e adestramento da tropa e dos animais do 1º RCG.",
+    "metaGlobal": "Atender às necessidades de treinamento e adestramento da tropa e dos animais do 1º RCG.",
+    "dataInicialPrevista": "2023-05-15",
+    "dataFinalPrevista": "2024-01-08",
     "dataInicialEfetiva": null,
     "dataFinalEfetiva": null,
-    "dataCadastro": "2023-03-01",
-    "especie": "Recuperação",
+    "dataCadastro": "2023-05-03",
+    "especie": "Construção",
     "natureza": "Obra",
     "naturezaOutras": null,
     "situacao": "Cadastrada",
@@ -798,8 +705,8 @@
     "descPopulacaoBeneficiada": null,
     "populacaoBeneficiada": null,
     "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-03-01",
+    "isModeladaPorBim": true,
+    "dataSituacao": "2023-05-03",
     "tomadores": [
       {
         "nome": "COMANDO DO EXÉRCITO",
@@ -826,8 +733,8 @@
     ],
     "tipos": [
       {
-        "id": 5,
-        "descricao": "Administrativo",
+        "id": 1,
+        "descricao": "Segurança Pública",
         "idEixo": 1
       }
     ],
@@ -840,25 +747,106 @@
     ],
     "geometrias": [
       {
-        "geometria": "0101000000E71DA7E848F247C0177BAF45F08F2FC0",
-        "dataCriacao": "2023-03-01",
+        "geometria": "0101000000D21DC4CE14FA47C0E5796F842A852FC0",
+        "dataCriacao": "2023-05-03",
         "origem": "Manual",
-        "dataMetadado": "2023-03-01",
+        "dataMetadado": "2023-05-03",
         "infoAdicionais": "",
         "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "SILOAGUA ENGENHARIA LTDA",
-        "enderecoAreaExecutora": "Rua Fortaleza, 211",
-        "cepAreaExecutora": "74830-060",
+        "nomeAreaExecutora": "COMISSÃO REGIONAL DE OBRAS DA 11ª REGIÃO MILITAR",
+        "enderecoAreaExecutora": "s/N Av do Exército Bloco A",
+        "cepAreaExecutora": "70680-519",
         "paisAreaExecutora": "Brasil"
       }
     ],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
-        "valorInvestimentoPrevisto": 769000
+        "valorInvestimentoPrevisto": 6252801.32
       }
     ],
-    "latitude": -15.7811300064764,
-    "longitude": -47.89285
+    "latitude": -15.7600900064544,
+    "longitude": -47.95376
+  },
+  {
+    "idUnico": "21751.53-90",
+    "nome": "obra de reforma do Teatro Helena Barcelos",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Reforma do Teatro Helena Barcelos, localizado no prédio Oficinas Especiais, no Setor Centro do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/D",
+    "funcaoSocial": "A necessidade em tela decorre de demanda formulada pelo Instituto de Artes com histórico descrito no documento SEI N. 5787223, constante nos autos do processo N. 23106.097036/2020-77.\n\nO Teatro é espaço didático necessário ao ensino de Artes Cênicas em sua plenitude e é também espaço cultural que permite atender a comunidade. A reivindicação pela adequação do espaço é antiga, pois o espaço carece de infraestrutura necessária para seu efetivo funcionamento e está desativado há anos.\n\nO espaço, localizado dentro do prédio Oficinas Especiais, apresenta muitos problemas de infiltração, mofo, banheiros deteriorados, os mecanismos de movimentação do palco e das varas cênicas não funcionam, a iluminação é insuficiente, não há tratamento acústico, as instalações existentes são insuficientes para a necessidade, entre outros.\n\nSendo assim, o teatro requer o redimensionamento das instalações elétricas, eletrônicas, hidrossanitárias, PCI, reforço estrutural, climatização, tratamento acústico, adequações na arquitetura para que o espaço seja seguro, acessível e compatível com a concentração de público. Faz-se necessário a criação de infraestrutura cênica para retomar o uso do espaço.\n\nEm 2019 foi feita contratação de obra para as adequações de segurança contra incêndio e pânico, mas a obra não foi concluída.\n\nSendo assim, para suprir por completo as necessidades espaciais e de segurança, o escopo da contratação tratada neste documento abarcará na reforma do Teatro as adequações para regularização do prédio Oficinas Especiais junto ao Corpo de Bombeiros Militar- CBMDF.",
+    "metaGlobal": "A necessidade em tela decorre de demanda formulada pelo Instituto de Artes com histórico descrito no documento SEI N. 5787223, constante nos autos do processo N. 23106.097036/2020-77.\n\nO Teatro é espaço didático necessário ao ensino de Artes Cênicas em sua plenitude e é também espaço cultural que permite atender a comunidade. A reivindicação pela adequação do espaço é antiga, pois o espaço carece de infraestrutura necessária para seu efetivo funcionamento e está desativado há anos.\n\nO espaço, localizado dentro do prédio Oficinas Especiais, apresenta muitos problemas de infiltração, mofo, banheiros deteriorados, os mecanismos de movimentação do palco e das varas cênicas não funcionam, a iluminação é insuficiente, não há tratamento acústico, as instalações existentes são insuficientes para a necessidade, entre outros.\n\nSendo assim, o teatro requer o redimensionamento das instalações elétricas, eletrônicas, hidrossanitárias, PCI, reforço estrutural, climatização, tratamento acústico, adequações na arquitetura para que o espaço seja seguro, acessível e compatível com a concentração de público. Faz-se necessário a criação de infraestrutura cênica para retomar o uso do espaço.\n\nEm 2019 foi feita contratação de obra para as adequações de segurança contra incêndio e pânico, mas a obra não foi concluída.\n\nSendo assim, para suprir por completo as necessidades espaciais e de segurança, o escopo da contratação tratada neste documento abarcará na reforma do Teatro as adequações para regularização do prédio Oficinas Especiais junto ao Corpo de Bombeiros Militar- CBMDF.",
+    "dataInicialPrevista": "2023-05-22",
+    "dataFinalPrevista": "2023-11-22",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-05-08",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "A obra está prevista no Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685), constante nos autos do  SEI 23106.065389/2021-99. ",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-05-08",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000EB6E9EEA90EF47C04B51856210882FC0",
+        "dataCriacao": "2023-05-08",
+        "origem": "Manual",
+        "dataMetadado": "2023-05-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "SG10",
+        "cepAreaExecutora": "70900-900",
+        "paisAreaExecutora": "brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3891249.91
+      }
+    ],
+    "latitude": -15.7657500064603,
+    "longitude": -47.87161
   }
 ]

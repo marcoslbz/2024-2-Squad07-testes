@@ -76,187 +76,6 @@
     "longitude": -47.8751524777795
   },
   {
-    "idUnico": "24797.53-15",
-    "nome": "Implantação de Passarelas nas Estradas Parque do DF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
-    "funcaoSocial": "Pedestres, no geral, demanda das ocupações lindeiras à faixa de domínio das rodovia, formando um grupo heterogêneo no sistema viário, dos quais, possuem idade e sexo distintos, além de englobarem pessoas com deficiência física e, em alguns casos, ciclistas... Os acidentes de trânsito são uma das principais causas de mortes no Brasil, sendo que o atropelamento é considerado o mais grave. Porém estes acidentes em rodovias localizadas em trechos urbanos têm aumentado. A implantação das passarelas possibilitará travessia segura, sobre as rodovias, em regiões de acentuado adensamento urbano.. Redução de acidentes por atropelamento, assim como promoção de local adequado para os usuários do sistema viário.",
-    "metaGlobal": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
-    "dataInicialPrevista": "2023-07-20",
-    "dataFinalPrevista": "2028-07-20",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-08-28",
-    "especie": "Construção",
-    "natureza": "Projeto de Investimento em Infraestrutura",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": "Pedestres que moram nas regiões de Planaltina, Núcleo Bandeirante e Guará. ",
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-08-28",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
-        "codigo": 70532000103
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DAS CIDADES",
-        "codigo": 308798
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 24,
-        "descricao": "Infraestrutura Urbana e Mobilidade",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 57,
-        "descricao": "Obra de Arte Especial",
-        "idTipo": 24
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000032207BBDFBFF47C0FEF15EB532C12FC0",
-        "dataCriacao": "2023-08-28",
-        "origem": "WKT",
-        "dataMetadado": "2023-08-28",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0101000000A94D9CDCEFD847C0F20703CFBD372FC0",
-        "dataCriacao": "2023-08-28",
-        "origem": "WKT",
-        "dataMetadado": "2023-08-28",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "01010000004BAB21718FF947C0C3F0113125A22FC0",
-        "dataCriacao": "2023-08-28",
-        "origem": "WKT",
-        "dataMetadado": "2023-08-28",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 10800000
-      }
-    ],
-    "latitude": -15.87734,
-    "longitude": -47.99987
-  },
-  {
-    "idUnico": "4173.53-67",
-    "nome": "202111000170 Adequação / Depósito de Móveis / PMB",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Adequação / Depósito de Móveis / PMB",
-    "funcaoSocial": "Readequação do depósito de móveis da PMB para melhorar as condições de armazenamento de material.",
-    "metaGlobal": "Readequação do depósito de móveis da PMB para melhorar as condições de armazenamento de material.",
-    "dataInicialPrevista": "2021-12-17",
-    "dataFinalPrevista": "2022-04-29",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-10-19",
-    "especie": "Recuperação",
-    "natureza": "Outros",
-    "naturezaOutras": "SERVICO",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-10-19",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000030234AF3F4F647C02B9B2F1654892FC0",
-        "dataCriacao": "2021-10-19",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-19",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 309500
-      }
-    ],
-    "latitude": -15.7682196553338,
-    "longitude": -47.9293502914428
-  },
-  {
     "idUnico": "24822.53-70",
     "nome": "obra de construção da  Cabine de Medição, localizado no Setor Central do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF",
     "cep": null,
@@ -740,7 +559,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -851,6 +670,178 @@
     ],
     "latitude": -15.6577700063478,
     "longitude": -47.69257
+  },
+  {
+    "idUnico": "21327.53-34",
+    "nome": "Reforma Agroecologia",
+    "cep": "73.380-900",
+    "endereco": "Rodovia DF – 128, km 21, Zona Rural de Planaltina",
+    "descricao": "Reforma do prédio de salas de aulas e laboratórios do curso de agroecologia do Campus Planaltina, incluindo um reforço na fundação, reforma do telhado, reforma e adequação dos banheiros, adequação dos acessos a edificação, entre outros.",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Planaltina principalmente no curso de agroecologia",
+    "metaGlobal": "aumentar o alcance do conhecimento com  aulas teóricas  e práticas nas instituições de ensino",
+    "dataInicialPrevista": "2023-09-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000029B3412619D947C0BBE9EFA5D5502FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3300000
+      }
+    ],
+    "latitude": -15.6578800063479,
+    "longitude": -47.69608
+  },
+  {
+    "idUnico": "21333.53-86",
+    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 BLOCO E",
+    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
+    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-08-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000B83B6BB75DF047C06DC67314059A2FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.8008200064971,
+    "longitude": -47.87786
   },
   {
     "idUnico": "21324.53-75",
@@ -13498,6 +13489,86 @@
     "longitude": -47.93245
   },
   {
+    "idUnico": "5956.53-55",
+    "nome": "IMPERMEABILIZAÇÃO DA COBERTURA DO AMBULATÓRIO II DO HUB",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Contratação semi-integrada de empresa de arquitetura e engenharia para elaboração do projeto executivo de impermeabilização e execução de obra de impermeabilização, com fornecimento de mão de obra, ferramentas, equipamentos, instrumentos e materiais​, para sanar infiltrações existentes na Cobertura do Ambulatório II do Hospital Universitário de Brasília – HUB",
+    "funcaoSocial": "As atividades desenvolvidas no local são ambulatoriais e promovidas pelo SUS, atendendo pacientes de baixo poder aquisitivo. Além disso, por estar em um hospital universitário, o Ambulatório II passa a ser um centro de formação de recursos humanos e de desenvolvimento de tecnologia para a área de saúde.",
+    "metaGlobal": "O objeto compreende eliminar as infiltrações no Ambulatório II, que são frequentes e causam danos às instalações das edificações, pois a água infiltrada nas superfícies e estruturas afeta o concreto, sua armadura (“ferragem”), as alvenarias e os revestimentos, comprometendo a segurança da edificação. Como benefício resultante desta contratação espera-se promover o prolongamento da vida útil dessa edificação. Como resultado maior, espera-se a melhoria da condição de operação e funcionalidade desse área em conformidade com a legislação, além de trazer maior confiabilidade e segurança para os seus usuários.",
+    "dataInicialPrevista": "2022-01-11",
+    "dataFinalPrevista": "2022-08-09",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2022-04-28",
+    "especie": "Recuperação",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "PLANO NACIONAL DE SAÚDE\nPROGRAMA: 5018 - Atenção Especializada à Saúde \nParticipação da União em despesas correntes para manutenção das ações e serviços da Atenção Especializada de Média e Alta Complexidade, executadas de forma descentralizada pelos Estados, Municípios e Distrito Federal e transferência de recursos para o custeio de despesas do SAMU - Serviço de Atendimento Móvel de Urgência. Enfrentamento da COVID-19 e de suas consequências no âmbito da Atenção Especializada.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2022-04-28",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES",
+        "codigo": 117267
+      },
+      {
+        "nome": "EBSERH HOSPITAL UNIVERSITARIO DE BRASILIA",
+        "codigo": 15126437000305
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 4,
+        "descricao": "Saúde",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 47,
+        "descricao": "Instituições Hospitalares Federais",
+        "idTipo": 4
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000B94006BDCBEF47C064E682FB578A2FC0",
+        "dataCriacao": "2022-04-28",
+        "origem": "Vetorizacao",
+        "dataMetadado": "2022-04-28",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "HOSPITAL UNIVERSITÁRIO DE BRASILIA",
+        "enderecoAreaExecutora": "SGAN 605 ASA NORTE",
+        "cepAreaExecutora": "70840-901",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 605400
+      }
+    ],
+    "latitude": -15.7702025029459,
+    "longitude": -47.8734051018268
+  },
+  {
     "idUnico": "51335.53-69",
     "nome": "Nova área para o laboratório de análises clínicas do HFAB",
     "cep": "71.607-900",
@@ -13557,7 +13628,7 @@
       {
         "id": 47,
         "descricao": "Instituições Hospitalares Federais",
-        "idTipo": 18
+        "idTipo": 4
       }
     ],
     "geometrias": [
@@ -14162,168 +14233,6 @@
     ],
     "latitude": -15.8290900065268,
     "longitude": -47.93251
-  },
-  {
-    "idUnico": "6450.53-56",
-    "nome": "Reforma do Museu de Valores do Banco Central do Brasil",
-    "cep": "70.074-900",
-    "endereco": "SBS QD 03 BLOCO B",
-    "descricao": "Reforma e adequação do Museu de Valores e de áreas adjacentes, do Banco Central do Brasil em Brasília/DF",
-    "funcaoSocial": "A contratação permitirá a reforma do espaço destinado ao Museu de Valores que abrigará a nova museografia de acordo com as necessidades apontadas no Plano Museológico 2018-2022 que busca, entre outros pontos, promover a educação financeira da população brasileira.",
-    "metaGlobal": "Contribuição, por parte do Banco Central, de modo mais relevante no processo de promoção de educação financeira com a criação do primeiro museu, na América do Sul, dedicado à promoção da educação econômica da população.",
-    "dataInicialPrevista": "2022-08-15",
-    "dataFinalPrevista": "2024-05-21",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-08-01",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": true,
-    "dataSituacao": "2022-08-01",
-    "tomadores": [
-      {
-        "nome": "BANCO CENTRAL DO BRASIL-ORC.FISCAL/SEG.SOCIAL",
-        "codigo": 25201
-      }
-    ],
-    "executores": [
-      {
-        "nome": "BANCO CENTRAL DO BRASIL-ORC.FISCAL/SEG.SOCIAL",
-        "codigo": 25201
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO DE DEFESA DOS DIREITOS DIFUSOS",
-        "codigo": 30905
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000045D8F0F44AF147C095E45A84479B2FC0",
-        "dataCriacao": "2022-08-01",
-        "origem": "Manual",
-        "dataMetadado": "2022-08-01",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "BANCO CENTRAL DO BRASIL",
-        "enderecoAreaExecutora": "SBS QD 03 BLOCO B",
-        "cepAreaExecutora": "70074-900",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 8996666.99
-      }
-    ],
-    "latitude": -15.8032800064996,
-    "longitude": -47.8851
-  },
-  {
-    "idUnico": "6470.53-02",
-    "nome": "Reforma do Museu de Valores do Banco Central do Brasil",
-    "cep": "70.074-900",
-    "endereco": "SBS QD 03 BLOCO B",
-    "descricao": "Reforma e adequação do Museu de Valores e de áreas adjacentes, do Banco Central do Brasil em Brasília/DF",
-    "funcaoSocial": "A contratação permitirá a reforma do espaço destinado ao Museu de Valores que abrigará a nova museografia de acordo com as necessidades apontadas no Plano Museológico 2018-2022 que busca, entre outros pontos, promover a educação financeira da população brasileira.",
-    "metaGlobal": "Contribuição, por parte do Banco Central, de modo mais relevante no processo de promoção de educação financeira com a criação do primeiro museu, na América do Sul, dedicado à promoção da educação econômica da população.",
-    "dataInicialPrevista": "2022-08-15",
-    "dataFinalPrevista": "2024-05-21",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-08-04",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": true,
-    "dataSituacao": "2022-08-04",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "BANCO CENTRAL DO BRASIL-ORC.FISCAL/SEG.SOCIAL",
-        "codigo": 25201
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000D182D0CE56F147C0B034EE5D3A9B2FC0",
-        "dataCriacao": "2022-08-04",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2022-08-04",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "BANCO CENTRAL DO BRASIL",
-        "enderecoAreaExecutora": "SBS QD 03 BLOCO B",
-        "cepAreaExecutora": "70074-900",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 8996666.99
-      }
-    ],
-    "latitude": -15.8031796792296,
-    "longitude": -47.8854616659279
   },
   {
     "idUnico": "6450.53-56",
@@ -29968,6 +29877,841 @@
     "longitude": -47.93277
   },
   {
+    "idUnico": "43513.53-46",
+    "nome": "CEI Paranoá Parque - EQ 1/2 AE 05-Paranoá Parque",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Construção de Centro de Educação Infantil (CEI) Paranoá Parque, Paranoá- Brasília /DF – Projeto Próprio.",
+    "funcaoSocial": "A construção da nova escola beneficiará aproximadamente 360 crianças por dois turnos, com idades entre quatro e cinco anos. O terreno escolhido para a nova creche está próximo à comunidade do Itapoã, do bairro Paranoá- Brasília- DF.. A região do Paranoá Parque enfrenta uma carência de unidades educacionais, resultando em cerca de 160 crianças sem acesso à educação e aproximadamente 1000 estudantes em idade escolar que necessitam se deslocar para outras regiões para estudar. A expansão da rede é necessária para garantir o acesso e a permanência dos estudantes na Rede Pública de Ensino, reiterando o compromisso do Distrito Federal com uma educação de qualidade. Fonte de dados: Sistema Interno da SEEDF (Argis).. Espera-se alcançar as metas estabelecidas tanto no Plano Nacional de Educação (PNE) quanto no Plano Distrital de Educação (PDE), universalizando a educação infantil para crianças de quatro a cinco anos e ampliando a oferta de creches para atender, no mínimo, 50% das crianças de até três anos no Distrito Federal.",
+    "metaGlobal": "Construção de Centro de Educação Infantil (CEI) Paranoá Parque, Paranoá- Brasília /DF – Projeto Próprio.",
+    "dataInicialPrevista": "2024-09-23",
+    "dataFinalPrevista": "2028-09-23",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-09-25",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-09-25",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "SECRETARIA DE ESTADO DE EDUCACAO DO DISTRITO FEDERAL",
+        "codigo": 394676000107
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "codigo": 26298
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000401361C3D3E347C03E5C72DC298D2FC0",
+        "dataCriacao": "2024-09-25",
+        "origem": "WKT",
+        "dataMetadado": "2024-09-25",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 003102/2024 e instrumento 965569",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "HELVIA MIRIDAN PARANAGUA FRAGA",
+        "enderecoAreaExecutora": "PRACA DO BURITI, SN, ANEXO PAL DO BURITI",
+        "cepAreaExecutora": "70070-500",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 6066972.98
+      }
+    ],
+    "latitude": -15.77571,
+    "longitude": -47.7799
+  },
+  {
+    "idUnico": "43515.53-59",
+    "nome": "Cepi Paranoá Parque - Quadra 01 Conjunto 01 AE 02",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Construção do Centro de Educação da Primeira Infância (Cepi) Paranoá Parque, bairro Paranoá/DF – FNDE – Creche Tipo 1.",
+    "funcaoSocial": "A construção da creche beneficiará aproximadamente 188 crianças com idades entre zero e cinco anos, oferecendo atendimento em período integral. O terreno escolhido para a nova creche está próximo à comunidade do Itapoã, do bairro Paranoá - Brasília- DF.. A região do Paranoá Parque enfrenta uma carência de unidades educacionais, resultando em cerca de 160 crianças sem acesso à educação e aproximadamente 1000 estudantes em idade escolar que necessitam se deslocar para outras localidades para estudar. A expansão da rede é crucial para garantir o acesso e a permanência dos estudantes na rede pública de ensino, reafirmando o compromisso de uma educação de qualidade aos estudantes do Distrito Federal. Fonte de dados: fila de espera, sistema I-educar.. Espera-se atender às metas estabelecidas tanto no Plano Nacional de Educação (PNE) quanto no Plano Distrital de Educação (PDE), garantindo a universalização da Educação Infantil para crianças de 4 a 5 anos e ampliando a oferta de creches para atender, no mínimo, 50% das crianças de até 3 anos no Distrito Federal.",
+    "metaGlobal": "Construção do Centro de Educação da Primeira Infância (Cepi) Paranoá Parque, bairro Paranoá/DF – FNDE – Creche Tipo 1.",
+    "dataInicialPrevista": "2024-09-23",
+    "dataFinalPrevista": "2028-09-23",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-09-25",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-09-25",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "SECRETARIA DE ESTADO DE EDUCACAO DO DISTRITO FEDERAL",
+        "codigo": 394676000107
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+        "codigo": 26298
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000F836FDD98FE447C0967840D9948B2FC0",
+        "dataCriacao": "2024-09-25",
+        "origem": "WKT",
+        "dataMetadado": "2024-09-25",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 003101/2024 e instrumento 965567",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "HELVIA MIRIDAN PARANAGUA FRAGA",
+        "enderecoAreaExecutora": "PRACA DO BURITI, SN, ANEXO PAL DO BURITI",
+        "cepAreaExecutora": "70070-500",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 6066972.98
+      }
+    ],
+    "latitude": -15.77262,
+    "longitude": -47.78564
+  },
+  {
+    "idUnico": "43616.53-83",
+    "nome": "Dispensa nº 256/2024 - Sistema SICRO",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Contratação de serviços técnicos especializados afetos à manutenção e atualização do Sistema de Custos Referenciais de Obras - SICRO, abrangendo como atividades a manutenção dos sistemas de custos do DNIT, a realização da pesquisa de preços, o cálculo dos índices de reajustamento de obras, a realização de estudos na área de custos, bem como o apoio técnico na execução dos objetivos relacionados à execução das atividades contratuais, nas condições estabelecidas no Termo de Referência.",
+    "funcaoSocial": "Ampliação da capacidade de trafego visando a melhoria da segurança do usuário",
+    "metaGlobal": "Projetos Básicos e Executivos de Engenharia",
+    "dataInicialPrevista": "2024-09-27",
+    "dataFinalPrevista": "2028-03-12",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-09-30",
+    "especie": "Construção",
+    "natureza": "Outros",
+    "naturezaOutras": "CONSULTORIA",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-09-30",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 25,
+        "descricao": "Rodovia",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 4,
+        "descricao": "Acessos Terrestres",
+        "idTipo": 25
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A782853506F047C0481A82E872942FC0",
+        "dataCriacao": "2024-09-30",
+        "origem": "Vetorizacao",
+        "dataMetadado": "2024-09-30",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "FUNDAÇÃO GETÚLIO VARGAS (FGV)",
+        "enderecoAreaExecutora": "SGAN (Setor de Grandes Áreas Norte Quadra 602 - Módulos A, B e C - Asa Norte",
+        "cepAreaExecutora": "70830-051",
+        "paisAreaExecutora": "brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 112936682.75
+      }
+    ],
+    "latitude": -15.7899391802613,
+    "longitude": -47.8751894857317
+  },
+  {
+    "idUnico": "43691.53-10",
+    "nome": "Projeto e estudos técnicos para reforma e ampliação do 4º BPM",
+    "cep": null,
+    "endereco": "Área especial 10, Módulo A – Guará, Brasília – DF",
+    "descricao": "Contratação de empresa do ramo de engenharia/arquitetura para prestação de serviços técnicos profissionais especializados visando a elaboração de projetos e estudos técnicos para obras de reformas com ampliações do 4º BPM/ PMDF.",
+    "funcaoSocial": "Promover a segurança pública, com a prevenção e repressão ao crime e manutenção da ordem social a comunidade.",
+    "metaGlobal": "A ampliação da Unidade é necessária para garantir um ambiente mais seguro e funcional, abrigando mais policiais e equipamentos, impactando diretamente na eficiência do trabalho policial prestado à comunidade.",
+    "dataInicialPrevista": "2020-11-23",
+    "dataFinalPrevista": "2021-03-20",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-10-03",
+    "especie": "Ampliação",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-10-03",
+    "tomadores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "executores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+        "codigo": 25915
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000965B5A0D89FB47C0D5FD81EF1BAF2FC0",
+        "dataCriacao": "2024-10-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-10-03",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "POLÍCIA MILITAR DO DISTRITO FEDERAL",
+        "enderecoAreaExecutora": "Área Especial 4, Setor Policial Sul s/n - Asa Sul, Brasília - DF.",
+        "cepAreaExecutora": "70610-212",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 35905.18
+      }
+    ],
+    "latitude": -15.8420100065404,
+    "longitude": -47.96512
+  },
+  {
+    "idUnico": "43706.53-94",
+    "nome": "Projeto de Ampliação e Reforma do 28º BPM (RIACHO FUNDO)",
+    "cep": null,
+    "endereco": "QN 05, Área Especial No 01, Riacho Fundo I",
+    "descricao": "Contratação de empresa de engenharia/arquitetura para prestação de serviços de elaboração de projetos e estudos técnicos para obras de reformas com ampliações do 28º BPM/ PMDF. (Riacho Fundo I)",
+    "funcaoSocial": "Promover a segurança pública, com a prevenção e repressão ao crime e manutenção da ordem social a comunidade..",
+    "metaGlobal": "A ampliação da Unidade é necessária para garantir um ambiente mais seguro e funcional, abrigando mais policiais e equipamentos, impactando diretamente na eficiência do trabalho policial prestado à comunidade.",
+    "dataInicialPrevista": "2020-11-23",
+    "dataFinalPrevista": "2023-11-09",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-10-04",
+    "especie": "Ampliação",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-10-04",
+    "tomadores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "executores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+        "codigo": 25915
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000075B0FECF610248C0B36E3306BBC12FC0",
+        "dataCriacao": "2024-10-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-10-04",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "POLÍCIA MILITAR DO DISTRITO FEDERAL",
+        "enderecoAreaExecutora": "Área Especial 4, Setor Policial Sul - Asa Sul, Brasília - DF,",
+        "cepAreaExecutora": "70610-212",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 14756.57
+      }
+    ],
+    "latitude": -15.8783800065788,
+    "longitude": -48.01861
+  },
+  {
+    "idUnico": "43724.53-06",
+    "nome": "Projetos e estudos técnicos para obras 16º BPM/ PMDF. (BRAZLANDIA)",
+    "cep": null,
+    "endereco": "ÁREA ESPECIAL 1N, LOTE P , SETOR NORTE, BRAZLANDIA- DF",
+    "descricao": "Contratação de empresa do ramo de engenharia/arquitetura para prestação de serviços técnicos profissionais especializados visando a elaboração de projetos e estudos técnicos para obras de reformas com ampliações do 16º BPM/ PMDF.",
+    "funcaoSocial": "Promover a segurança pública, com a prevenção e repressão ao crime e manutenção da ordem social à comunidade.",
+    "metaGlobal": "A ampliação da Unidade é necessária para garantir um ambiente mais seguro e funcional, abrigando mais policiais e equipamentos, impactando diretamente na eficiência do trabalho policial prestado à comunidade.",
+    "dataInicialPrevista": "2020-11-23",
+    "dataFinalPrevista": "2023-11-09",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-10-07",
+    "especie": "Construção",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-10-07",
+    "tomadores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "executores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+        "codigo": 25915
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000B728B341261948C068B43FA7055F2FC0",
+        "dataCriacao": "2024-10-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Polícia Militar do Distrito Federal",
+        "enderecoAreaExecutora": "SAISO, Área Especial 4, Setor Policial Sul s/n - Asa Sul, Brasília - DF,",
+        "cepAreaExecutora": "70610-212",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 4684.45
+      }
+    ],
+    "latitude": -15.6855900063767,
+    "longitude": -48.19648
+  },
+  {
+    "idUnico": "43986.53-49",
+    "nome": "Persianas Metálicas (Brises)",
+    "cep": "70.675-731",
+    "endereco": "Av. das Jaqueiras s/n, Sudoeste",
+    "descricao": "Tendo em vista o planejamento para construção, revitalização de diversos ambientes médico-hospitalares deste hospital constantes no PAC (Plano Anual de Contratação) e\ntambém contando com o planejamento de reestruturação dos andares de internação; a revitalização da fachada do prédio lâmina do HFA tem como objetivo a adequação das instalações físicas às normas vigentes como a Resolução RDC nº 50, de 21 de fevereiro de 2002, a abertura do atual processo licitatório tem por finalidade propiciar a condição necessária para a contração de empresa especializada para realizar execução de serviços de engenharia de adequação dos brises dos do 8º, 9º e 10º andar e pertinente implantação do projeto de ancoragem (linha de vida) necessário a realização dos serviços.",
+    "funcaoSocial": "Tendo em vista o planejamento para construção, revitalização de diversos ambientes médico-hospitalares deste hospital constantes no PAC (Plano Anual de Contratação) e\ntambém contando com o planejamento de reestruturação dos andares de internação; a revitalização da fachada do prédio lâmina do HFA tem como objetivo a adequação das instalações físicas às normas vigentes como a Resolução RDC nº 50, de 21 de fevereiro de 2002, a abertura do atual processo licitatório tem por finalidade propiciar a condição necessária para a contração de empresa especializada para realizar execução de serviços de engenharia de adequação dos brises dos do 8º, 9º e 10º andar e pertinente implantação do projeto de ancoragem (linha de vida) necessário a realização dos serviços.",
+    "metaGlobal": "Tendo em vista o planejamento para construção, revitalização de diversos ambientes médico-hospitalares deste hospital constantes no PAC (Plano Anual de Contratação) e\ntambém contando com o planejamento de reestruturação dos andares de internação; a revitalização da fachada do prédio lâmina do HFA tem como objetivo a adequação das instalações físicas às normas vigentes como a Resolução RDC nº 50, de 21 de fevereiro de 2002, a abertura do atual processo licitatório tem por finalidade propiciar a condição necessária para a contração de empresa especializada para realizar execução de serviços de engenharia de adequação dos brises dos do 8º, 9º e 10º andar e pertinente implantação do projeto de ancoragem (linha de vida) necessário a realização dos serviços.",
+    "dataInicialPrevista": "2024-12-20",
+    "dataFinalPrevista": "2025-09-20",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-10-17",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Tendo em vista o planejamento para construção, revitalização de diversos ambientes médico-hospitalares deste hospital constantes no PAC (Plano Anual de Contratação) e\ntambém contando com o planejamento de reestruturação dos andares de internação; a revitalização da fachada do prédio lâmina do HFA tem como objetivo a adequação das instalações físicas às normas vigentes como a Resolução RDC nº 50, de 21 de fevereiro de 2002, a abertura do atual processo licitatório tem por finalidade propiciar a condição necessária para a contração de empresa especializada para realizar execução de serviços de engenharia de adequação dos brises dos do 8º, 9º e 10º andar e pertinente implantação do projeto de ancoragem (linha de vida) necessário a realização dos serviços.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-10-17",
+    "tomadores": [
+      {
+        "nome": "FUNDO DE ADMINISTRACAO DO HFA",
+        "codigo": 52002
+      }
+    ],
+    "executores": [
+      {
+        "nome": "FUNDO DE ADMINISTRACAO DO HFA",
+        "codigo": 52002
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO DO MINISTERIO DA DEFESA",
+        "codigo": 52001
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 39,
+        "descricao": "Saúde",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 74,
+        "descricao": "Unidades de Atenção Especializada de Saúde",
+        "idTipo": 39
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000024EEB1F4A1F747C0880AE29A209A2FC0",
+        "dataCriacao": "2024-10-17",
+        "origem": "Manual",
+        "dataMetadado": "2024-10-17",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Hospital das Forças Armadas",
+        "enderecoAreaExecutora": "Av. das Jaqueiras s/n - Sudoeste/HFA",
+        "cepAreaExecutora": "70675-731",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1565000
+      }
+    ],
+    "latitude": -15.8010300064973,
+    "longitude": -47.93463
+  },
+  {
+    "idUnico": "440.53-82",
+    "nome": "CONSTRUÇÃO DE NOVA SEDE DO INSTITUTO MÉDICO LEGAL",
+    "cep": "1",
+    "endereco": "SPO, CJ A LOTE 23, COMPLEXO DA PCDF.",
+    "descricao": "CONSTRUÇÃO DE SEDE DO IML/PCDF",
+    "funcaoSocial": "AUXÍLIAR NO TRABALHO TÉCNICO/INVESTIGATIVO DA PCDF.",
+    "metaGlobal": "CONSTRUÇÃO DO NOVO IML/PCDF",
+    "dataInicialPrevista": "2021-03-31",
+    "dataFinalPrevista": "2022-06-30",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-03-19",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-03-19",
+    "tomadores": [
+      {
+        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
+        "codigo": 37115482000135
+      }
+    ],
+    "executores": [
+      {
+        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
+        "codigo": 37115482000135
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "ESTATAIS DO MINISTERIO DA FAZENDA",
+        "codigo": 91010
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000FB05BB61DBF647C04D9336D0619E2FC0",
+        "dataCriacao": "2021-03-19",
+        "origem": "cipiws",
+        "dataMetadado": "2021-03-19",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1
+      }
+    ],
+    "latitude": -15.809340006506,
+    "longitude": -47.92857
+  },
+  {
+    "idUnico": "44063.53-80",
+    "nome": "Regularização Fundiária do Sol Nascente, Trecho II, Etapa 1",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Regularização Fundiária de Interesse Social em área de ocupação irregular no Distrito Federal.",
+    "funcaoSocial": "O público alvo do objeto é a população que vive informalmente na Etapa 1 do Trecho II do Sol Nascente, na Região Administrativa Sol Nascente e Pôr do Sol (RA XXXII), contabilizando aproximadamente 10.588 lotes urbanizáveis. Ressalta-se, no entanto, que, dessas 10.588 ocupações, as localizadas em áreas de risco, delimitadas no EIA/RIMA e no PRAD não serão regularizadas, podendo haver uma redução no número total.. O Sol Nascente é considerado a maior favela do Brasil, segundo dados do Censo 2022(IBGE).  Já foram executados diversos estudos e projetos na área, no entanto, devido ao longo tempo transcorrido entre a elaboração dos projetos (2008) e o início da sua efetiva implantação (2014), os projetos encontram-se defasados em respeito à realidade existente. Hoje, as famílias possuem insegurança na posse da terra, condições inadequadas de moradia e riscos de morte relacionados a erosões presentes no local.. Espera-se com a execução do objeto que a área seja regularizada, provendo infraestrutura necessária e a finalização do processo de titulação dos ocupantes da área, considerando as especificidades contidas nos estudos a serem contratados. Espera-se que a regularização traga diversos benefícios para a comunidade, como segurança jurídica, acesso a serviços básicos, inclusão social e econômica, desenvolvimento urbano sustentável e redução de conflitos.",
+    "metaGlobal": "Regularização Fundiária de Interesse Social em área de ocupação irregular no Distrito Federal.",
+    "dataInicialPrevista": "2024-10-11",
+    "dataFinalPrevista": "2028-10-11",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-10-21",
+    "especie": "Recuperação",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-10-21",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL ",
+        "codigo": 9335575000130
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DAS CIDADES",
+        "codigo": 308798
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 75,
+        "descricao": "Urbanização",
+        "idTipo": 45
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000069006F81041148C0643BDF4F8DA72FC0",
+        "dataCriacao": "2024-10-21",
+        "origem": "WKT",
+        "dataMetadado": "2024-10-21",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 013871/2024 e instrumento 966557",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "MARCELO FAGUNDES GOMIDE",
+        "enderecoAreaExecutora": "QUADRA SETOR COMERCIAL SUL, 06, BL.A LOTES 13/14",
+        "cepAreaExecutora": "70306-918",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3677796.48
+      }
+    ],
+    "latitude": -15.82725,
+    "longitude": -48.13295
+  },
+  {
+    "idUnico": "44078.53-10",
+    "nome": "CPAC - Elaboração de projetos  para as instalações de recepção e preparação de amostras",
+    "cep": "73.310-970",
+    "endereco": "BR 020, Km 18, Rod. Brasília/Fortaleza, Zona Rural, Planaltina - DF",
+    "descricao": "Elaboração de projetos básicos e executivos de engenharia e arquitetura para a reforma e construção das instalações de recepção e preparação de amostras na Embrapa Cerrados",
+    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
+    "metaGlobal": "Elaboração de projetos básicos e executivos de engenharia e arquitetura para a reforma e construção das instalações de recepção e preparação de amostras na Embrapa Cerrados",
+    "dataInicialPrevista": "2024-11-01",
+    "dataFinalPrevista": "2025-02-01",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-10-21",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-10-21",
+    "tomadores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "executores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTERIO DA AGRICULTURA, PECUARIA E ABASTECIMENTO",
+        "codigo": 16701716003686
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 90,
+        "descricao": "Preservação do Patrimônio",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000C2262731C1DB47C05F6A372C40342FC0",
+        "dataCriacao": "2024-10-21",
+        "origem": "Vetorizacao",
+        "dataMetadado": "2024-10-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Francesca Pereira Cardoso Azevedo",
+        "enderecoAreaExecutora": "Parque Estação Biológica - PqEB, s/nº, Brasília, DF",
+        "cepAreaExecutora": "70770-901",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 49973.53
+      }
+    ],
+    "latitude": -15.6020520990034,
+    "longitude": -47.7168332520646
+  },
+  {
     "idUnico": "44080.53-46",
     "nome": "CNPAE - Fornecimento e instalação de Casa de Vegetação com dois módulos e antesala",
     "cep": "70.770-901",
@@ -34286,819 +35030,6 @@
     ],
     "latitude": -15.8006176359166,
     "longitude": -47.9350297057136
-  },
-  {
-    "idUnico": "4756.53-07",
-    "nome": "Contratação de obra e serviços para implantação de vestiários/COPA no COMAE (antigo COMDABRA)",
-    "cep": "71.615-600",
-    "endereco": "SHIS QI 5 - ÁREA ESPECIAL 12 - LAGO SUL - BRASÍLIA - DF",
-    "descricao": "Contratação de obra e serviços para implantação de vestiários/COPA no COMAE (antigo COMDABRA).",
-    "funcaoSocial": "Construir vestiários para a utilização pelo efetivo do COMAE durante as atividades rotineiras deste QG, possibilitando condições adequadas para a prática das atividades técnico-profissionais.",
-    "metaGlobal": "Construção de 6 vestiários com áreas 49,84m², 36,74m², 23,91m², 70,14m², 31,64m² e 23,91m², além de uma copa/sala de estar com área de 28,22m².",
-    "dataInicialPrevista": "2021-01-10",
-    "dataFinalPrevista": "2022-08-10",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-11-26",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-11-26",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "COMANDO DA AERONÁUTICA",
-        "codigo": 48
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01030000000100000005000000E618522F9BF347C02D5048BD8DB72FC0E418525B7EF347C0976EE5EA82B72FC0E718522B81F347C080F5ECDC67B72FC0E41852679FF347C017B1B7FA6FB72FC0E618522F9BF347C02D5048BD8DB72FC0",
-        "dataCriacao": "2021-11-26",
-        "origem": "cipiws",
-        "dataMetadado": "2021-11-26",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 675527.32
-      }
-    ]
-  },
-  {
-    "idUnico": "47653.53-00",
-    "nome": "Restauro do Museu Vivo da Memória Candanga - Brasília/DF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Restauro do Museu Vivo da Memória Candanga - Brasília/DF",
-    "funcaoSocial": "Comunidade local, a população do Distrito Federal e turistas de todo o Brasil e do exterior.. Os objetivos dessa proposta são a restauro das edificações em madeira do MVMC de forma a garantir a permanência dos remanescentes tombados ao longo do tempo, bem como permitir a plena utilização dos espaços, haja vista alguns estarem interditados por questões de segurança. A construção do parque vivencial urbano será um benefício direto para a comunidade do entorno do espaço e para os visitantes, além de possibilitar a utilização funcional da área verde do Museu.. O restauro e conservação do patrimônio cultural tombado, que viabilizará uma série de benefícios diretos para a população e visitantes.",
-    "metaGlobal": "Restauro do Museu Vivo da Memória Candanga - Brasília/DF",
-    "dataInicialPrevista": "2024-04-30",
-    "dataFinalPrevista": "2024-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-10",
-    "especie": "Recuperação",
-    "natureza": "Projeto",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": "20",
-    "descPopulacaoBeneficiada": "Os visitantes do Museu Vivo da Memória Candanga costumam ser estudantes em atividades educativas e moradores locais ou turistas interessados na história e cultura de Brasília, especialmente no período de sua construção e na vida dos candangos. Além disso, é um espaço de oficinas artísticas para a comunidade do local.",
-    "populacaoBeneficiada": "120000",
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-10",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA DO DISTRITO FEDERAL",
-        "codigo": 3658028000109
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
-        "codigo": 20411
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 43,
-        "descricao": "Cultura",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 90,
-        "descricao": "Preservação do Patrimônio",
-        "idTipo": 43
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000074B515FBCBFA47C0D47D00529BB82FC0",
-        "dataCriacao": "2024-12-10",
-        "origem": "WKT",
-        "dataMetadado": "2024-12-10",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 008195/2024 e instrumento 961311",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FRANCISCO CLAUDIO DE ABRANTES",
-        "enderecoAreaExecutora": "VIA , N/2, ANEXO DO TNCS",
-        "cepAreaExecutora": "70070-200",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 500000
-      }
-    ],
-    "latitude": -15.86056,
-    "longitude": -47.95935
-  },
-  {
-    "idUnico": "4765.53-08",
-    "nome": "Taxas Extras referentes aos Condomínios onde a PABR possui PNR",
-    "cep": "",
-    "endereco": "",
-    "descricao": "Taxas Extras referentes aos Condomínios onde a PABR possui PNR",
-    "funcaoSocial": "Taxas Extras referentes aos Condomínios onde a PABR possui PNR",
-    "metaGlobal": "Recuperação das áreas comuns dos Condomínios onde a PABR possui Próprios Nacionais Residenciais (PNR) que necessitam de intervenção para garantir a segurança e habitabilidade das mesmas.",
-    "dataInicialPrevista": "2021-04-01",
-    "dataFinalPrevista": "2023-04-01",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-11-26",
-    "especie": "Recuperação",
-    "natureza": "Outros",
-    "naturezaOutras": "Outros",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-11-26",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "COMANDO DA AERONÁUTICA",
-        "codigo": 48
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "COMANDO DA AERONÁUTICA",
-        "codigo": 48
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000DC114E0B5EF447C092E08AD0EDB52FC0",
-        "dataCriacao": "2021-12-03",
-        "origem": "cipiws",
-        "dataMetadado": "2021-11-26",
-        "infoAdicionais": null,
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 4105808.5
-      }
-    ],
-    "latitude": -15.8553300065544,
-    "longitude": -47.90912
-  },
-  {
-    "idUnico": "47673.53-24",
-    "nome": "Construção Galpão no Pavilhão de Exposição Agrobrasília",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Apoio a execução de obras e serviços de engenharia para o fomento aos setores agropecuário e de agroindústria.",
-    "funcaoSocial": "A política pública em questão beneficiará aproximadamente 20 mil famílias de agricultores moradores da comunidade PAD-DF  e, indiretamente, toda a população das Regiões Administrativas que circula na região semanalmente, aproximadamente 05 munícipes.Com a maior circulação de pessoas, empresas e eventos, há uma tendência de aumento nos valores de propriedades rurais e urbanas próximas ao local.. Projetos desse tipo geralmente trazem melhorias em infraestrutura,como estradas,serviços públicos e redes de apoio logístico, beneficiando tanto os produtores locais quanto a comunidade.Os proprietários rurais utilizam atualmente estradas em condições precárias, com buracos, atoleiros, e erosão, devido às frequentes precipitações, afetando negativamente a economia local, afligindo diretamente o escoamento da produção agropecuária e as condições de vida dos agricultores.. Com o aumento de atividades comerciais e logísticas,novos postos de trabalho diretos e indiretos são criados, fortalecendo a economia regional e atraindo mais pessoas para a área.Facilitação no tráfego,no escoamento da produção agrícola; fortalecimento do desenvolvimento econômico das Comunidades e consequentemente de todo Município;Alavancar o agroturismo; contribuir com a fixação das famílias no campo,proporcionando aumento e diversificação da produção agrícola,melhor rentabilidade",
-    "metaGlobal": "Apoio a execução de obras e serviços de engenharia para o fomento aos setores agropecuário e de agroindústria.",
-    "dataInicialPrevista": "2024-12-31",
-    "dataFinalPrevista": "2027-08-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-10",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-10",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "EMPRESA DE ASSISTENCIA TECNICA E EXTENSAO RURAL DO DISTRITO FEDERAL",
-        "codigo": 509612000104
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
-        "codigo": 14
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 40,
-        "descricao": "Agricultura e Organização Agrária",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 17,
-        "descricao": "Assistência Técnica",
-        "idTipo": 40
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000073D712F241C747C05DF92CCF830330C0",
-        "dataCriacao": "2025-01-02",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-02",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 035588/2024 e instrumento 971483",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "CLEISON MEDAS DUVAL",
-        "enderecoAreaExecutora": "PARQUE ESTACAO BIOLOGICA, S/N, EDIFICIO EMATER",
-        "cepAreaExecutora": "70086-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2868000
-      }
-    ],
-    "latitude": -16.01373,
-    "longitude": -47.5567
-  },
-  {
-    "idUnico": "47862.53-57",
-    "nome": "Substituição completa de 01 (um) elevador de serviço",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Contratação de empresa especializada para substituição completa de 01 (um) elevador de serviço instalado no edifício sede da Superintendência Regional do INSS Norte/Centro-Oeste, no endereço SAUS Quadra 04, Bloco L, Asa Sul, Brasília/DF.",
-    "funcaoSocial": "Autarquia federal de atendimento a seguridade social - INSS",
-    "metaGlobal": "Se faz necessária para melhorarmos as condições físicas das nossas unidades de atendimento, proporcionando condições ideais de funcionamento, garantindo maior conforto e comodidade aos nossos servidores, segurados e parceiros. Bem como, adaptar o imóvel as normas de acessibilidade",
-    "dataInicialPrevista": "2025-01-31",
-    "dataFinalPrevista": "2026-02-24",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-11",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Não tem relação ao plano nacional da política pública",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-11",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
-        "codigo": 37202
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTERIO DA ECONOMIA",
-        "codigo": 25000
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 2,
-        "descricao": "Previdência Social",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000E21E4B1FBAF047C0596395A27A9B2FC0",
-        "dataCriacao": "2024-12-11",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-11",
-        "infoAdicionais": "Sede da Superintendência Regional Norte / Centro-Oeste",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Superintendência Regional Norte / Centro-Oeste",
-        "enderecoAreaExecutora": "SAUS - Quadra 4 - Bloco L - Asa Sul - Brasília/DF",
-        "cepAreaExecutora": "70297-400",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 520695.57
-      }
-    ],
-    "latitude": -15.8036700065001,
-    "longitude": -47.88068
-  },
-  {
-    "idUnico": "47947.53-72",
-    "nome": "contratação de empresa de engenharia para a instalação de gerador de energia 500 kVA, incluso frete e instalações, na Superintendência Regional de Polícia Federal no Distrito Federal",
-    "cep": null,
-    "endereco": null,
-    "descricao": "contratação de empresa de engenharia para a instalação de gerador de energia 500 kVA, incluso frete e instalações, na Superintendência Regional de Polícia Federal no Distrito Federal",
-    "funcaoSocial": "Segurança Pública",
-    "metaGlobal": "contratação de empresa de engenharia para a instalação de gerador de energia 500 kVA, incluso frete e instalações, na Superintendência Regional de Polícia Federal no Distrito Federal",
-    "dataInicialPrevista": "2025-01-13",
-    "dataFinalPrevista": "2025-06-12",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-12",
-    "especie": "Ampliação",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-12",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000BD3AC780ECDD47C0191189B3074A2FC0",
-        "dataCriacao": "2024-12-12",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-12",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Policia Federal",
-        "enderecoAreaExecutora": "SCN Quadra 04 Lote C",
-        "cepAreaExecutora": "70000-000",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 655000
-      }
-    ],
-    "latitude": -15.6445900063341,
-    "longitude": -47.73378
-  },
-  {
-    "idUnico": "4872.53-73",
-    "nome": "CPAC - Implantação de usina fotovoltaica",
-    "cep": "73.310-970",
-    "endereco": "Rodovia BR-020, Km 18, Planaltina - DF",
-    "descricao": "Implantação das usinas fotovoltaicas para minigeração distribuída no sistema on-grid, para as unidades da Embrapa, compreendendo o fornecimento, montagem, comissionamento, ativação de todos os equipamentos e materiais, a aprovação do projeto elétrico junto a concessionária local de energia elétrica, a efetivação do acesso junto à concessionária de energia, o treinamento e suporte técnico, adequações das instalações elétricas e serviço continuado de aferição de performance pelo período de 24 (vinte e quatro) meses",
-    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
-    "metaGlobal": "Implantação das usinas fotovoltaicas para minigeração distribuída no sistema on-grid, para as unidades da Embrapa, compreendendo o fornecimento, montagem, comissionamento, ativação de todos os equipamentos e materiais, a aprovação do projeto elétrico junto a concessionária local de energia elétrica, a efetivação do acesso junto à concessionária de energia, o treinamento e suporte técnico, adequações das instalações elétricas e serviço continuado de aferição de performance pelo período de 24 (vinte e quatro) meses",
-    "dataInicialPrevista": "2021-12-02",
-    "dataFinalPrevista": "2024-07-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-12-02",
-    "especie": "Construção",
-    "natureza": "Outros",
-    "naturezaOutras": "Implantação de usina fotovoltaica",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-12-02",
-    "tomadores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "executores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
-        "codigo": 14
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000050790D7928DB47C0404B2AB46D352FC0",
-        "dataCriacao": "2021-12-02",
-        "origem": "cipiws",
-        "dataMetadado": "2021-12-02",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2447500
-      }
-    ],
-    "latitude": -15.6043525983456,
-    "longitude": -47.7121726337233
-  },
-  {
-    "idUnico": "4874.53-08",
-    "nome": "CPAC - Implantação de Usina Fotovoltaico Fazenda Sucupira",
-    "cep": "71.215-902",
-    "endereco": "FZ SUCUPIRA FP ANTIGA ADMINISTRACAO",
-    "descricao": "Implantação das usinas fotovoltaicas para minigeração distribuída no sistema on-grid, para as unidades da Embrapa, compreendendo o fornecimento, montagem, comissionamento, ativação de todos os equipamentos e materiais, a aprovação do projeto elétrico junto a concessionária local de energia elétrica, a efetivação do acesso junto à concessionária de energia, o treinamento e suporte técnico, adequações das instalações elétricas e serviço continuado de aferição de performance pelo período de 24 (vinte e quatro) meses",
-    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
-    "metaGlobal": "Implantação das usinas fotovoltaicas para minigeração distribuída no sistema on-grid, para as unidades da Embrapa, compreendendo o fornecimento, montagem, comissionamento, ativação de todos os equipamentos e materiais, a aprovação do projeto elétrico junto a concessionária local de energia elétrica, a efetivação do acesso junto à concessionária de energia, o treinamento e suporte técnico, adequações das instalações elétricas e serviço continuado de aferição de performance pelo período de 24 (vinte e quatro) meses",
-    "dataInicialPrevista": "2021-12-02",
-    "dataFinalPrevista": "2024-07-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-12-02",
-    "especie": "Construção",
-    "natureza": "Projeto",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-12-02",
-    "tomadores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "executores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
-        "codigo": 14
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000007EDC1A85BD0548C0F507783565D12FC0",
-        "dataCriacao": "2021-12-02",
-        "origem": "cipiws",
-        "dataMetadado": "2021-12-02",
-        "infoAdicionais": null,
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1835625
-      }
-    ],
-    "latitude": -15.9089752873442,
-    "longitude": -48.0448461896094
-  },
-  {
-    "idUnico": "49980.53-05",
-    "nome": "Restauro do Museu do Catetinho - Brasília/DF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Restauro do Museu do Catetinho - Brasília/DF",
-    "funcaoSocial": "Comunidade local, a população do Distrito Federal e turistas de todo o Brasil e do exterior.. O que se pretende alcançar com a confecção do projeto de acessibilidade total é garantir a toda comunidade que visita o museu a livre fruição do bem e com os projetos para construção da nova sede administrativa do museu pretende-se tirar a situação de precariedade em que está funcionando o administrativo do espaço visto que a antiga sede foi destruída por intemperes em 2022.. Ampliar o acesso ao bem cultural contribuindo para sua permanência ao longo do tempo, bem como ampliar as ações de educação patrimonial no espaço.",
-    "metaGlobal": "Restauro do Museu do Catetinho - Brasília/DF",
-    "dataInicialPrevista": "2024-10-10",
-    "dataFinalPrevista": "2025-10-10",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-17",
-    "especie": "Recuperação",
-    "natureza": "Projeto",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": "10",
-    "descPopulacaoBeneficiada": "Os visitantes do Museu do Catetinho geralmente incluem estudantes em visitas escolares e turistas interessados na história de Brasília, atraídos pelo papel do Catetinho como primeira residência presidencial e marco da construção da capital.",
-    "populacaoBeneficiada": "60000",
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-17",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA DO DISTRITO FEDERAL",
-        "codigo": 3658028000109
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
-        "codigo": 20411
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 43,
-        "descricao": "Cultura",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 90,
-        "descricao": "Preservação do Patrimônio",
-        "idTipo": 43
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000004A0C022B87FE47C0BE6A65C22FE52FC0",
-        "dataCriacao": "2024-12-17",
-        "origem": "WKT",
-        "dataMetadado": "2024-12-17",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 008175/2024 e instrumento 961308",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FRANCISCO CLAUDIO DE ABRANTES",
-        "enderecoAreaExecutora": "VIA , N/2, ANEXO DO TNCS",
-        "cepAreaExecutora": "70070-200",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 200000
-      }
-    ],
-    "latitude": -15.94763,
-    "longitude": -47.9885
-  },
-  {
-    "idUnico": "49988.53-46",
-    "nome": "Reforma dos leitos de enfermaria da Unidade de Internação A (UI-A) a Unidade de Internação B (UI-B) do HFAB",
-    "cep": "71.607-900",
-    "endereco": "HFAB - Hospital de Força Aérea de Brasília - Endereço: Área Militar do Aeroporto Internacional de Brasília - Lago Sul",
-    "descricao": "Reforma dos leitos de enfermaria da Unidade de Internação A (UI-A) a Unidade de Internação B (UI-B) do HFAB.\nA reforma também visa restaurar as instalações do HFAB, de\nmodo a restabelecer as condições sanitárias, elétrica e hidráulica da área para voltar a receber\npacientes, após longo tempo de inativação, justamente por falta de condições adequadas para\ninternação de pacientes. A reforma se faz necessária para fins de adequar a UI-B à Padronização dos\nQuartos do SISAU, instituída recentemente pela Diretoria de Saúde (DIRSA), mediante a publicação\nde Orientações Sistêmicas versando sobre as Especificações Técnicas Nº 001/2022, de 14 de\nsetembro de 2022. Tal padronização, inclusive com a sinalização interna do hospital (faixas no piso,\nplacas indicativas e padrão de cores) que permita uma orientação adequada dos usuários ao se\ndeslocaram nesse ambiente, visa estabelecer uma padronização que possa ser replicada para as\ndemais Organizações de Saúde do SISAU. Tal proposta, ao englobar a melhoria da infraestrutura do\nimóvel, bem como mobiliários, reorganização do setor e readequação do quantitativo do efetivo, tem\ncomo finalidade proporcionar aos usuários do SISAU um acolhimento mais humanizado e melhores\ncondições de trabalho para o efetivo.",
-    "funcaoSocial": "A finalidade da intervenção é que o HFAB possa continuar desempenhando sua missão principal e continuar dentro dos\npadrões estabelecidos pelas normas de Vigilância Sanitária.",
-    "metaGlobal": "Reforma dos leitos de enfermaria da Unidade de Internação A (UI-A) a Unidade de Internação B (UI-B) do HFAB.\nA reforma também visa restaurar as instalações do HFAB, de\nmodo a restabelecer as condições sanitárias, elétrica e hidráulica da área para voltar a receber\npacientes, após longo tempo de inativação, justamente por falta de condições adequadas para\ninternação de pacientes. A reforma se faz necessária para fins de adequar a UI-B à Padronização dos\nQuartos do SISAU, instituída recentemente pela Diretoria de Saúde (DIRSA), mediante a publicação\nde Orientações Sistêmicas versando sobre as Especificações Técnicas Nº 001/2022, de 14 de\nsetembro de 2022.",
-    "dataInicialPrevista": "2025-01-20",
-    "dataFinalPrevista": "2025-12-16",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-17",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-17",
-    "tomadores": [
-      {
-        "nome": "COMANDO DA AERONÁUTICA",
-        "codigo": 48
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DA AERONÁUTICA",
-        "codigo": 48
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA DEFESA",
-        "codigo": 41066
-      }
-    ],
-    "eixos": [
-      {
-        "id": 2,
-        "descricao": "Militar"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 18,
-        "descricao": "Saúde",
-        "idEixo": 2
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 47,
-        "descricao": "Instituições Hospitalares Federais",
-        "idTipo": 18
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000B3B5BE4868F347C0426419EFACBD2FC0",
-        "dataCriacao": "2024-12-17",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-17",
-        "infoAdicionais": "Hospital de Força Aérea de Brasília",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "HFAB - Hospital de Força Aérea de Brasília",
-        "enderecoAreaExecutora": "Área Militar do Aeroporto Internacional de Brasília - Lago Sul",
-        "cepAreaExecutora": "71607-900",
-        "paisAreaExecutora": "Brazil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 4795000
-      }
-    ],
-    "latitude": -15.8704600065704,
-    "longitude": -47.90162
   },
   {
     "idUnico": "50027.53-00",

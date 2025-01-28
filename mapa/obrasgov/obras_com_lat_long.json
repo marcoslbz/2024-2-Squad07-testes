@@ -76,6 +76,87 @@
     "longitude": -47.8751524777795
   },
   {
+    "idUnico": "19970.53-78",
+    "nome": "Reajuste do Contrato 45/2021 - Contrução do Centro de Formação e Aperfeiçoamento de Praças - CEFAP do CBMDF",
+    "cep": "70.602-600",
+    "endereco": "SAIS Área Especial 3, Setor Policial Sul",
+    "descricao": "Reajuste do Contrato 45/2021 - Construção do Centro de Formação e Aperfeiçoamento de Praças - CEFAP, situado no Setor Policial Sul lote 03, Asa Sul, Brasília-DF.",
+    "funcaoSocial": "Contribuir para a melhor formação dos bombeiros militares que prestarão serviços à sociedade do DF.",
+    "metaGlobal": "Construção de um novo centro de formação e de aperfeiçoamento de praças.",
+    "dataInicialPrevista": "2021-09-14",
+    "dataFinalPrevista": "2024-08-28",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-02-06",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-02-06",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000009609BFD4CFF747C0C62B5AE010AA2FC0",
+        "dataCriacao": "2023-02-06",
+        "origem": "Manual",
+        "dataMetadado": "2023-02-06",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Corpo de Bombeiros Militar do DF",
+        "enderecoAreaExecutora": "QCG – Quartel do Comando Geral SAM Lote D Módulo E",
+        "cepAreaExecutora": "70620-000",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1177429.91
+      }
+    ],
+    "latitude": -15.83216000653,
+    "longitude": -47.93603
+  },
+  {
     "idUnico": "4173.53-67",
     "nome": "202111000170 Adequação / Depósito de Móveis / PMB",
     "cep": null,
@@ -125,7 +206,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -150,101 +231,6 @@
     ],
     "latitude": -15.7682196553338,
     "longitude": -47.9293502914428
-  },
-  {
-    "idUnico": "24822.53-70",
-    "nome": "obra de construção da  Cabine de Medição, localizado no Setor Central do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "obra de construção da  Cabine de Medição, localizado no Setor Central do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF",
-    "funcaoSocial": "A demanda de carga elétrica do Campus Darcy Ribeiro aumenta progressivamente, em razão da instalação de novos\nequipamentos de ar-condicionado, equipamentos para laboratórios, entre outros inerentes ao crescimento da Universidade. A\nprincipal consequência disso é a sobrecarga nos cabeamentos do fornecimento de energia, que comprometem a qualidade da\ninfraestrutura elétrica. Nos meses de novembro e dezembro de 2019 atingiram valores de demanda de energia próximos ao pico\nmáximo já registrado, conforme relatado no documento SEI N. 5187620.\nA Norma Técnica de Distribuição - NTD Nº 6.05, publicada pela CEB-D, trata do fornecimento de energia elétrica em tensão\nprimária de distribuição. Essa normativa define, entre outros aspectos, as características técnicas necessárias para o correto\nfuncionamento de subestações de entrada de energia, segundo os padrões técnicos da concessionária.\nAs subestações devem ter características de construção definitiva, ser de materiais incombustíveis e de estabilidade adequada,\noferecendo condições de bem-estar e segurança aos operadores, devem atender a requisitos de segurança e serem devidamente\nprotegidas contra danos acidentais decorrentes do meio ambiente.\nAlém disso, a disposição dos equipamentos deve oferecer condições adequadas de operação, segurança e facilidade de\nsubstituição do todo ou parte, facilitados por corredores que obedeçam às dimensões recomendadas para viabilizar a correta\noperação e manutenção dos sistemas, garantindo que o afastamento entre partes vivas também obedeça aos critérios técnicos\nestabelecidos na NTD.\n",
-    "metaGlobal": "A demanda de carga elétrica do Campus Darcy Ribeiro aumenta progressivamente, em razão da instalação de novos\nequipamentos de ar-condicionado, equipamentos para laboratórios, entre outros inerentes ao crescimento da Universidade. A\nprincipal consequência disso é a sobrecarga nos cabeamentos do fornecimento de energia, que comprometem a qualidade da\ninfraestrutura elétrica. Nos meses de novembro e dezembro de 2019 atingiram valores de demanda de energia próximos ao pico\nmáximo já registrado, conforme relatado no documento SEI N. 5187620.\nA Norma Técnica de Distribuição - NTD Nº 6.05, publicada pela CEB-D, trata do fornecimento de energia elétrica em tensão\nprimária de distribuição. Essa normativa define, entre outros aspectos, as características técnicas necessárias para o correto\nfuncionamento de subestações de entrada de energia, segundo os padrões técnicos da concessionária.\nAs subestações devem ter características de construção definitiva, ser de materiais incombustíveis e de estabilidade adequada,\noferecendo condições de bem-estar e segurança aos operadores, devem atender a requisitos de segurança e serem devidamente\nprotegidas contra danos acidentais decorrentes do meio ambiente.\nAlém disso, a disposição dos equipamentos deve oferecer condições adequadas de operação, segurança e facilidade de\nsubstituição do todo ou parte, facilitados por corredores que obedeçam às dimensões recomendadas para viabilizar a correta\noperação e manutenção dos sistemas, garantindo que o afastamento entre partes vivas também obedeça aos critérios técnicos\nestabelecidos na NTD.\nAtualmente, a cabine de medição do Campus Universitário Darcy Ribeiro está situada no subsolo do SG-12. Esta edificação é\nocupada pelo Departamento de Engenharia Civil para abrigar salas de aulas e laboratórios, cujo espaço físico não oferece as\ncondições técnicas necessárias para viabilizar a expansão de carga do campus.",
-    "dataInicialPrevista": "2023-09-14",
-    "dataFinalPrevista": "2024-03-14",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-08-29",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-08-29",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      },
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 31,
-        "descricao": "Energia",
-        "idEixo": 3
-      },
-      {
-        "id": 31,
-        "descricao": "Energia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 95,
-        "descricao": "Subestação",
-        "idTipo": 31
-      },
-      {
-        "id": 39,
-        "descricao": "Empreendimento de Transmissão de Energia Elétrica",
-        "idTipo": 31
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000002BA4FCA4DAEF47C0DCC31B4AD2852FC0",
-        "dataCriacao": "2023-08-29",
-        "origem": "Manual",
-        "dataMetadado": "2023-08-29",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "secretaria de infraestrutura ",
-        "enderecoAreaExecutora": "Unb",
-        "cepAreaExecutora": "70297-400",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 928139.7
-      }
-    ],
-    "latitude": -15.7613700064557,
-    "longitude": -47.87386
   },
   {
     "idUnico": "4541.53-44",
@@ -333,163 +319,6 @@
     "longitude": -47.839404296873
   },
   {
-    "idUnico": "33081.53-23",
-    "nome": "Pavimentação Caminho das Escolas- Região de Brazlândia.(Etapa 2)",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Pavimentação de Estradas Vicinais",
-    "funcaoSocial": "Estudantes, professores, servidores das escolas rurais, bem como produtores localizados próximos às rodovias (distritais,\nestradas vicinais e vias locais) beneficiadas na região do Distrito Federal. Atenuar poeira oriunda do período de seca e muito prejudicial à saúde das pessoas e eliminar risco de acidentes em épocas de\nchuva por causa de atoleiros, água empossada com a pavimentação de acessos às escolas rurais (rodovias distritais, estradas\nvicinais e vias locais). Melhoria no desenvolvimento social, facilitando o acesso à educação e econômico desses locais, tem em vista a garantia de\nescoamento dos produtos agrícolas em todas as épocas do ano",
-    "metaGlobal": "Pavimentação de Estradas Vicinais",
-    "dataInicialPrevista": "2023-07-28",
-    "dataFinalPrevista": "2028-07-28",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-01-04",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-01-04",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
-        "codigo": 70532000103
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 24,
-        "descricao": "Infraestrutura Urbana e Mobilidade",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 58,
-        "descricao": "Pavimentação",
-        "idTipo": 24
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000ADDD76A1B90E48C03A4030478F7F2FC0",
-        "dataCriacao": "2024-01-04",
-        "origem": "WKT",
-        "dataMetadado": "2024-01-04",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 046468/2023 e instrumento 945685/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 8498664
-      }
-    ],
-    "latitude": -15.74914,
-    "longitude": -48.11504
-  },
-  {
-    "idUnico": "6044.53-00",
-    "nome": "Obra de construção de novo galpão na Divisão de Gestão de Frotas – DIFRO/CGAD/DLOG/PF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Obra de construção de novo galpão na Divisão de Gestão de Frotas – DIFRO/CGAD/DLOG/PF",
-    "funcaoSocial": "Segurança Pública",
-    "metaGlobal": "Construção do galpão",
-    "dataInicialPrevista": "2022-05-30",
-    "dataFinalPrevista": "2023-08-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-12",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-05-12",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000002AA913D044F847C0D1ABF6654EA72FC0",
-        "dataCriacao": "2022-05-12",
-        "origem": "Manual",
-        "dataMetadado": "2022-05-12",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Polícia Federal",
-        "enderecoAreaExecutora": "SAS quadra 06 lotes 09/10",
-        "cepAreaExecutora": "70000-000",
-        "paisAreaExecutora": "Brasíl"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 7732907.61
-      }
-    ],
-    "latitude": -15.8267700065243,
-    "longitude": -47.9396
-  },
-  {
     "idUnico": "21693.53-84",
     "nome": "Construção da Pista Coberta do 1º Regimento de Cavalaria de Guarda em Brasília/DF.",
     "cep": null,
@@ -549,7 +378,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -574,92 +403,6 @@
     ],
     "latitude": -15.7600900064544,
     "longitude": -47.95376
-  },
-  {
-    "idUnico": "4545.53-03",
-    "nome": "202111-22-Ronald 1",
-    "cep": "70067-901",
-    "endereco": "2021122-Ronald - Endereço Completo",
-    "descricao": "2021122-Ronald - Descrição do Projeto",
-    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
-    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
-    "dataInicialPrevista": "2021-12-10",
-    "dataFinalPrevista": "2021-12-10",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-11-17",
-    "especie": "Reforma",
-    "natureza": "Projeto de Investimento em Infraestrutura",
-    "naturezaOutras": "outros",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-11-17",
-    "tomadores": [
-      {
-        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
-        "codigo": 26230
-      }
-    ],
-    "executores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 45,
-        "descricao": "Desenvolvimento",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 38,
-        "descricao": "Saneamento",
-        "idTipo": 45
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000003886EB5190F047C0A8CBE667BBBF2FC0",
-        "dataCriacao": "2021-11-22",
-        "origem": "cipiws",
-        "dataMetadado": "2021-12-10",
-        "infoAdicionais": "20211122-Ronald Alves - Informações adicionais",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 30000006
-      }
-    ],
-    "latitude": -15.874476668284686,
-    "longitude": -47.879404296877
   },
   {
     "idUnico": "4546.53-60",
@@ -807,7 +550,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -832,6 +575,264 @@
     ],
     "latitude": -15.6952600063867,
     "longitude": -47.84351
+  },
+  {
+    "idUnico": "21333.53-86",
+    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 BLOCO E",
+    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
+    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-08-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000B83B6BB75DF047C06DC67314059A2FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.8008200064971,
+    "longitude": -47.87786
+  },
+  {
+    "idUnico": "21335.53-99",
+    "nome": "Reforma do Centro de Múltiplas Funções do Campus São Sebastião",
+    "cep": "71.697-040",
+    "endereco": "Área Especial 2, S/N, Bairro São Bartolomeu - São Sebastião/DF",
+    "descricao": "Reforma do prédio de múltiplas funções do campus São Sebastião que compreende uma área de 523 m². A reforma compreenderá o telhado, a troca de uma viga que foi quebrada com a queda de uma área e ajustes no piso, instalações elétricas e hidráulicas. ",
+    "funcaoSocial": "melhorar a qualidade do ensino na unidade através de laboratórios e salas ludos",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-12-01",
+    "dataFinalPrevista": "2024-07-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000003255302AA9E347C0DFD918F4C3C82FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1000000
+      }
+    ],
+    "latitude": -15.8921200065933,
+    "longitude": -47.7786
+  },
+  {
+    "idUnico": "21339.53-04",
+    "nome": "Substituição do sistema de impermeabilização nas edificações do Campus Brasília",
+    "cep": "70.830-450",
+    "endereco": "Via L2 Norte, SGAN 610 (610 Norte), Módulo D, E, F e G .Brasília/DF",
+    "descricao": "substituição de todo o sistema de impermeabilização dos blocos do campus Brasília que foram concebidos para terem telhado verde. A impermeabilização garante uma edificação segura, estanque e sem patologias decorrentes de entrada de águas em todos os tipos de estruturas.",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Brasília principalmente em conforto e qualidade de ensino, pesquisa e extensão",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-07-01",
+    "dataFinalPrevista": "2023-12-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Recuperação",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000007D3307C44F047C0F5ADAD6C04822FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1000000
+      }
+    ],
+    "latitude": -15.7539400064479,
+    "longitude": -47.87709
   },
   {
     "idUnico": "4546.53-60",
@@ -37435,6 +37436,844 @@
     ],
     "latitude": -15.7899811698142,
     "longitude": -47.8752434480622
+  },
+  {
+    "idUnico": "51064.53-80",
+    "nome": "Reforma de Unidade de Atenção Especializada em Saúde - Hospital da Criança de Brasília José Alencar HCB - Reforma do Sistema de Combate a Incêndio",
+    "cep": null,
+    "endereco": null,
+    "descricao": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+    "funcaoSocial": "O HCB possui 27 especialidades pediátricas que atendem crianças e adolescentes, de 28 dias a 18 anos, integralmente pelo Sistema Único de Saúde (SUS), para tratar doenças graves ou de alta complexidade. Primeiro hospital público do Distrito Federal e o primeiro pediátrico da região Centro-Oeste acreditado pela Organização Nacional de Acreditação - ONA (certificação de qualidade) ¿ tendo recebido, em 2020, o nível mais alto da classificação: Acreditado com Excelência.. Adequar a infraestrutura física do HCB em atendimento às normas técnicas do Corpo de Bombeiros Militar do Distrito Federal, para trazer mais segurança aos pacientes, acompanhantes e colaboradores.. Espera-se oferecer um ambiente mais seguro no que tange a proteção e o combate a incêndio e pânico, conforme regulação.\n\n\nForam apresentadas as declarações para sanar Diligêcia. Docs Ofício HCB e Declaração 1 e 2.",
+    "metaGlobal": "REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE",
+    "dataInicialPrevista": "2024-12-31",
+    "dataFinalPrevista": "2028-12-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-30",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": "Público infanto-juvenil com condições raras.",
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-30",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDO DE SAUDE DO DISTRITO FEDERAL",
+        "codigo": 12116247000157
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTERIO DA SAUDE",
+        "codigo": 36000
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 39,
+        "descricao": "Saúde",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 74,
+        "descricao": "Unidades de Atenção Especializada de Saúde",
+        "idTipo": 39
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000001A34F44F70F547C030F0DC7BB8842FC0",
+        "dataCriacao": "2025-01-07",
+        "origem": "WKT",
+        "dataMetadado": "2025-01-07",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 035659/2024 e instrumento 970890",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "VALMIR LEMOS DE OLIVEIRA",
+        "enderecoAreaExecutora": "PARQUE SAIN PARQUE RURAL, S/N, BLOCO B                   ANDAR 1                   SALA  152",
+        "cepAreaExecutora": "70086-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 8829844
+      }
+    ],
+    "latitude": -15.75922,
+    "longitude": -47.91749
+  },
+  {
+    "idUnico": "51081.53-45",
+    "nome": "Torres de Refrigeração",
+    "cep": "70.000-000",
+    "endereco": "Esplanada dos Ministérios, Bloco R",
+    "descricao": "Contratação de empresa especializada de serviço comum de Engenharia,\npara remoção, fornecimento e instalação de 4 (quatro) unidades de torres de\nresfriamento, para atender as necessidades do Ministério dos Transportes,\nconforme condições, quantidades, exigências e estimativas estabelecidas\nneste Edital e seus anexos",
+    "funcaoSocial": "Manutenção da edificação",
+    "metaGlobal": "Remoção, fornecimento e instalação de 4 (quatro) unidades de torres de\nresfriamento, para atender as necessidades do Ministério dos Transportes.\n",
+    "dataInicialPrevista": "2024-12-31",
+    "dataFinalPrevista": "2025-12-30",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-30",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-30",
+    "tomadores": [
+      {
+        "nome": "SUBSECRETARIA DE PLANEJAMENTO E ORCAMENTO/MT",
+        "codigo": 39802
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INFRAESTRUTURA",
+        "codigo": 2846
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000003BE466B801EF47C0A7ADA22BF6972FC0",
+        "dataCriacao": "2024-12-30",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-30",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Ministerio dos Transportes",
+        "enderecoAreaExecutora": "Esplanada dos Ministérios",
+        "cepAreaExecutora": "70000-000",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 566454.92
+      }
+    ],
+    "latitude": -15.7968000064928,
+    "longitude": -47.86724
+  },
+  {
+    "idUnico": "51089.53-86",
+    "nome": "Ginásio de Esportes do Campus Planaltina do Instituto Federal de Brasília",
+    "cep": "73.380-900",
+    "endereco": "Rodovia DF-128, Km 21, Zona Rural de Planaltina, Planaltina/DF",
+    "descricao": "Construção do ginásio poliesportivo do Campus Planaltina",
+    "funcaoSocial": "Atender a comunidade acadêmica do Campus Planaltina principalmente nos eixos relacionados aos cursos de agroecologia,\nbiologia, agronomia e técnico em agropecuária, ensino médio integrado. O Espaço será destinado a prática de esporte e realização de eventos esportivos integrado com a rede federal de educação.\nContratação de empresa especializada para a execução de um Ginásio de Esportes para o Campus Planaltina do Instituto Federal\nde Brasília.\nO Campus Planaltina é um campus rural localizado em uma fazenda nas imediações de Planaltina no Distrito Federal. É um\ncampus doado pelo GDF e que possui edificações e infraestrutura antigas. Assim, nunca existiu no campus um Ginásio para as\npráticas esportivas dos alunos atendidos e é uma demanda antiga da comunidade acadêmica.\nA real necessidade é uma construção de uma Ginásio com todos os elementos necessários para as práticas esportivas e também\nacessórias, como por exemplo, salas de professores, vestiários, depósitos, arquibancadas, salas de ginástica, entre outros. \nUma quadra poliesportiva é uma solução que engloba diversas atividades físicas em um só lugar, democratizando a prática de\ndiferentes esportes. Já um ginásio, é a junção de uma quadra poliesportiva com um vestiário e demais salas de apoio. Assim,\nconforme a demanda e necessidade do Campus Planaltina, optou-se por construir um ginásio de esportes com um ampla área que atendesse a maior gama de esportes possíveis.",
+    "metaGlobal": "Assegurar que o ginásio esportivo não seja apenas uma construção física, mas um centro de desenvolvimento e integração social, educacional e esportiva para o campus do IFB em Planaltina-DF oferendo práticas de esportes com infraestrutura adequada para os alunos, além de desenvolver a capacidade de aprendizado e  aperfeiçoamento esportivos para os alunos.",
+    "dataInicialPrevista": "2025-02-10",
+    "dataFinalPrevista": "2027-01-04",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-30",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-30",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000459E245D33D947C0900E9ED0D04F2FC0",
+        "dataCriacao": "2024-12-30",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-30",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasília",
+        "enderecoAreaExecutora": "SAUS Q. 2 Bloco E Edifício Siderbrás - Asa Sul, Brasília - DF, ",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 4410000
+      }
+    ],
+    "latitude": -15.6558900063458,
+    "longitude": -47.69688
+  },
+  {
+    "idUnico": "5124.53-53",
+    "nome": "26.782.3006.13XJ.0031",
+    "cep": "70040-902",
+    "endereco": "BR-010",
+    "descricao": "adequaÃ§Ã£o de trecho rodoviÃ¡rio - entrocamento br-494/mg-423 (nova serrana) - uberaba - na br-262/mg",
+    "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustentÃ¡vel do paÃ­s priorizando a seguranÃ§a, as boas condiÃ§Ãµes de trafegabilidade e a otimizaÃ§Ã£o da logÃ­stica dos transportes, elevando assim o nÃ­vel de serviÃ§o das vias.",
+    "metaGlobal": "Garantir dotação orçamentária para os contratos que envolvem 0.00 km desta rúbrica.",
+    "dataInicialPrevista": "2020-07-26",
+    "dataFinalPrevista": "2024-04-03",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-09",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Concluída",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2025-01-09",
+    "tomadores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 25,
+        "descricao": "Rodovia",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 4,
+        "descricao": "Acessos Terrestres",
+        "idTipo": 25
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
+        "dataCriacao": "2025-01-02",
+        "origem": "WKT",
+        "dataMetadado": "2025-01-02",
+        "infoAdicionais": "Metadado criado em 2025-01-02T19:27:34",
+        "datum": "DATUM 2000",
+        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
+        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
+        "cepAreaExecutora": "70040-902",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 16402075.46
+      }
+    ]
+  },
+  {
+    "idUnico": "51335.53-69",
+    "nome": "Nova área para o laboratório de análises clínicas do HFAB",
+    "cep": "71.607-900",
+    "endereco": "Área Militar do Aeroporto Internacional de Brasília - Lago Sul, Brasília",
+    "descricao": "A obra visa à construção de uma nova área para o laboratório de análises clínicas do HFAB, mais\nmoderno e adequado para as atividades de coleta, processamento dos exames (área técnica) e atividades\nadministrativas, o que requer a contratação de empresa especializada para execução de tal obra.",
+    "funcaoSocial": "A finalidade da intervenção é que o HFAB possa continuar desempenhando sua missão principal e continuar dentro dos \npadrões estabelecidos pelas normas de Vigilância Sanitária.",
+    "metaGlobal": "construção de uma nova área para o laboratório de análises clínicas do HFAB, mais\nmoderno e adequado para as atividades de coleta, processamento dos exames (área técnica) e atividades\nadministrativas, o que requer a contratação de empresa especializada para execução de tal obra.",
+    "dataInicialPrevista": "2025-03-17",
+    "dataFinalPrevista": "2026-03-27",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2025-01-16",
+    "especie": "Construção",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Federal",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2025-01-16",
+    "tomadores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 2,
+        "descricao": "Militar"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 18,
+        "descricao": "Saúde",
+        "idEixo": 2
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 47,
+        "descricao": "Instituições Hospitalares Federais",
+        "idTipo": 18
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000EC17EC866DF347C0288D538178BD2FC0",
+        "dataCriacao": "2025-01-16",
+        "origem": "Manual",
+        "dataMetadado": "2025-01-16",
+        "infoAdicionais": "Área Militar do Aeroporto Internacional de Brasília",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Hospital de Força Aérea de Brasília",
+        "enderecoAreaExecutora": "Área Militar do Aeroporto Internacional de Brasília - Lago Sul, Brasília",
+        "cepAreaExecutora": "71607-900",
+        "paisAreaExecutora": "Brazil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1878000
+      }
+    ],
+    "latitude": -15.87006000657,
+    "longitude": -47.90178
+  },
+  {
+    "idUnico": "5161.53-54",
+    "nome": "Ampliação das usinas fotovoltaicas nos campi IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 Bloco E Ed. Siderbras",
+    "descricao": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de empresa tecnicamente especializada para execução de serviço de\nengenharia de instalação e fornecimento de usinas fotovoltaicas, com fornecimento de\nmaterial, conforme condições, quantidades e exigências estabelecidas neste Edital e seus\nanexos.",
+    "funcaoSocial": "atender aos usuários das diversas unidades do IFB e modernizar a fonte geradora de energia, tornando assim, todas as unidades mais sustentáveis. ",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-10",
+    "dataFinalPrevista": "2022-07-29",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Ampliação",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000FFCF61BEBCF047C0A30909AF429A2FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1350000
+      }
+    ],
+    "latitude": -15.8012900064976,
+    "longitude": -47.88076
+  },
+  {
+    "idUnico": "5166.53-70",
+    "nome": "Construção CFT Campus Riacho Fundo",
+    "cep": "71.826-006",
+    "endereco": "Av. Cedro, AE 15, QS 16 – Riacho Fundo I",
+    "descricao": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de pessoa jurídica especializada na prestação de serviço de construção civil -\nincluindo todos os materiais, equipamentos e mão de obra, necessários à execução de um\nconjunto de containers onde será instalado o Centro de Formação Tecnológica – CFT do\nCampus Riacho Fundo do Instituto Federal de Brasília- IFB, conforme condições, quantidades\ne exigências estabelecidas neste Edital e seus anexos. ",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Riacho Fundo principalmente nos eixos de hotelaria, linguagens e gastronomia",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-10",
+    "dataFinalPrevista": "2022-10-14",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000C5FEB27BF20048C0BB7724C139C32FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2250000
+      }
+    ],
+    "latitude": -15.8813000065819,
+    "longitude": -48.0074
+  },
+  {
+    "idUnico": "5174.53-14",
+    "nome": "Reforma 10 andar, banheiros e copas 5 e 6 e instalações de agua esgoto e combate a incendio do Ed. Siderbras sede Reitoria IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS Quadra 2 Bloco E Edifício Siderbrás",
+    "descricao": ".O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de pessoa jurídica especializada na prestação de serviço de construção civil -\nincluindo todos os materiais, equipamentos e mão de obra, necessários à reforma do\ndécimo pavimento, bem como dos banheiros e copas do quinto e sexto pavimentos e\ninstalações de água fria, esgoto sanitário, águas pluviais e prevenção e combate a incêndio\ndo Edifício Siderbrás, sede da Reitoria do Instituto Federal de Brasília – IFB, conforme\ncondições, quantidades e exigências estabelecidas neste Edital e seus anexos. ",
+    "funcaoSocial": "modernizar as instalações da reitoria do IFB para assim, atender a toda comunidade acadêmica do IFB, seja de servidores, colaboradores alunos e professores. ",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-10",
+    "dataFinalPrevista": "2022-10-28",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000DB166536C8F047C07D7A3D2FFA9A2FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.802690006499,
+    "longitude": -47.88111
+  },
+  {
+    "idUnico": "5218.53-13",
+    "nome": "OBRA CONSTRUÇÃO DO EDIFÍCIO DO INSTITUTO DE ARTES - IDA",
+    "cep": "",
+    "endereco": "",
+    "descricao": "OBRA CONSTRUÇÃO DO EDIFÍCIO DO INSTITUTO DE ARTES - IDA, LOCALIZADO NO SETOR SUL DO CAMPUS UNIVERSITÁRIO DARCY RIBEIRO, DA UNIVERSIDADE DE BRASÍLIA, EM BRASÍLIA/DF, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+    "funcaoSocial": "O Instituto de Artes ocupa os mesmos espaços físicos que  há dez anos atrás, sendo que atualmente comporta 800 alunos a mais. Esse aumento quantitativo de alunos deu-se em função da adesão ao Reuni, a criação do curso de Teoria Crítica e História da Arte e a criação de três novos Programas de Pós Graduação.\n\nAtualmente o Instituto de Artes é composto por 4 departamentos e 5 programas de pós graduação. Oferecendo 14 cursos em nível de graduação e sete cursos a nível de pós- graduação (5 mestrados e dois doutorados).\n\nA comunidade do IdA é composta por 42 servidores técnicos administrativos, 129 professores e cerca de 1800 alunos. Para se fazer um comparativo em 2010 contávamos com 90 professores efetivos, dois programas de pós graduação, apenas com mestrado e totalizávamos 890 alunos.\n\nEm face do crescimento do Instituto e do estrangulamento dos espaços físicos, atualmente o Instituto ocupa três módulos no subsolo do ICC com o curso de Design e demanda salas em pavilhões para que as aulas do curso de Teoria Crítica e História da Arte sejam ministradas.\n\nDentre os três modos, ocupados pelo curso de Design, apenas dois, somando 800 m², são utilizados. O terceiro módulo não tem ventilação adequada, desenvolveu mofo que colocou em risco a vida dos servidores, sendo que dois deles adoeceram enquanto trabalhavam no local.\n\nO departamento de design, oferece dois cursos de graduação e um de pós-graduação,  ocupa 6 laboratórios, 4 salas de aula, 6 salas de professores, espaço administrativo, centro acadêmico e empresa junior.\n\nO curso de Teoria Crítica e História da Arte ocupa semanalmente 20 salas de aula nos pavilhões multiuso da UnB, tem entrada semestral de 50 alunos, utilizando 5 salas simultâneas para ministrar disciplinas teóricas, além disso, compartilha, no prédio SG1, laboratórios de prática artísticas com o bacharelado e a licenciatura em Artes Visuais.",
+    "metaGlobal": "Trata-se de demanda de ampliação de espaço físico do Instituto de Artes - IdA \n\nAtualmente o Instituto de Artes – IdA - é composto por 42 servidores técnicos administrativos, 129 professores e cerca de 1800 alunos, segundo informações da própria unidade.\n\nO Instituto pleiteou a ampliação de seu espaço físico em razão de não ter recebido acréscimo de área nos últimos dez anos, embora tenha sofrido incremente de sua comunidade discente em mais de 800 alunos, além de inúmeros docentes. Essa ampliação ocorreu em função da adesão ao Reuni, da criação do curso de Teoria Crítica e História da Arte e da criação de três novos Programas de Pós-Graduação.\n\nUma vez que o IdA não foi contemplada com acréscimo de espaço físico, a unidade informa que alguns cursos desenvolvem suas atividades em espaços insuficientes e de caráter provisório, pois não atendem corretamente as necessidades e geram espaços apertados e insalubres.\n\nConsiderando o exposto, a unidade priorizou a necessidade de retirar o curso de Design do subsolo do ICC, a unificação das aulas do curso de Teoria Crítica e História da Arte em um único espaço, além de  centralizar os espaços administrativos e designar áreas para gestão em um único edifício.\n\nPortanto, a construção de uma sede própria constitui medida necessária para proporcionar ao demandante melhores condições espaciais para desenvolver suas atividades finalísticas, além de viabilizar a implementação de ações de planejamento institucional no contexto do Plano de Reordenamento do ICC e a respectiva designação a área atualmente ocupada pelo IdA a outra unidade de modo que também possa ampliar sua área com vistas ao ensino, pesquisa e extensão.",
+    "dataInicialPrevista": "2022-01-17",
+    "dataFinalPrevista": "2023-06-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "obra em tela foi incluída no Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685), constante nos autos do  SEI 23106.065389/2021-99. ",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000FBCBEEC9C3EE47C0DF5DB214AE872FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 20785637.18
+      }
+    ],
+    "latitude": -15.7650000064595,
+    "longitude": -47.86535
+  },
+  {
+    "idUnico": "5222.53-08",
+    "nome": "CNPH - Projeto de PPCI",
+    "cep": "70.351-970",
+    "endereco": "Rodovia BR 060 Km 9 - Samambaia Norte, Brasília - DF",
+    "descricao": "Serviço de Elaboração de Projeto Executivo de Plano de Prevenção de Combate a Incêndio PPCI.",
+    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
+    "metaGlobal": "Serviço de Elaboração de Projeto Executivo de Plano de Prevenção de Combate a Incêndio PPCI.",
+    "dataInicialPrevista": "2022-01-04",
+    "dataFinalPrevista": "2022-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "executores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
+        "codigo": 14
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A10CD7C27B1248C0080F087680DD2FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 47000
+      }
+    ],
+    "latitude": -15.9326207051122,
+    "longitude": -48.1444018888517
   },
   {
     "idUnico": "5223.53-75",

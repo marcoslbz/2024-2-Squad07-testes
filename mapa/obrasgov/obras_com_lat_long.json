@@ -76,111 +76,6 @@
     "longitude": -47.8751524777795
   },
   {
-    "idUnico": "24797.53-15",
-    "nome": "Implantação de Passarelas nas Estradas Parque do DF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
-    "funcaoSocial": "Pedestres, no geral, demanda das ocupações lindeiras à faixa de domínio das rodovia, formando um grupo heterogêneo no sistema viário, dos quais, possuem idade e sexo distintos, além de englobarem pessoas com deficiência física e, em alguns casos, ciclistas... Os acidentes de trânsito são uma das principais causas de mortes no Brasil, sendo que o atropelamento é considerado o mais grave. Porém estes acidentes em rodovias localizadas em trechos urbanos têm aumentado. A implantação das passarelas possibilitará travessia segura, sobre as rodovias, em regiões de acentuado adensamento urbano.. Redução de acidentes por atropelamento, assim como promoção de local adequado para os usuários do sistema viário.",
-    "metaGlobal": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
-    "dataInicialPrevista": "2023-07-20",
-    "dataFinalPrevista": "2028-07-20",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-08-28",
-    "especie": "Construção",
-    "natureza": "Projeto de Investimento em Infraestrutura",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": "Pedestres que moram nas regiões de Planaltina, Núcleo Bandeirante e Guará. ",
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-08-28",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
-        "codigo": 70532000103
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DAS CIDADES",
-        "codigo": 308798
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 24,
-        "descricao": "Infraestrutura Urbana e Mobilidade",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 57,
-        "descricao": "Obra de Arte Especial",
-        "idTipo": 24
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000032207BBDFBFF47C0FEF15EB532C12FC0",
-        "dataCriacao": "2023-08-28",
-        "origem": "WKT",
-        "dataMetadado": "2023-08-28",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0101000000A94D9CDCEFD847C0F20703CFBD372FC0",
-        "dataCriacao": "2023-08-28",
-        "origem": "WKT",
-        "dataMetadado": "2023-08-28",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "01010000004BAB21718FF947C0C3F0113125A22FC0",
-        "dataCriacao": "2023-08-28",
-        "origem": "WKT",
-        "dataMetadado": "2023-08-28",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
-        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
-        "cepAreaExecutora": "70310-500",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 10800000
-      }
-    ],
-    "latitude": -15.87734,
-    "longitude": -47.99987
-  },
-  {
     "idUnico": "24822.53-70",
     "nome": "obra de construção da  Cabine de Medição, localizado no Setor Central do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF",
     "cep": null,
@@ -861,6 +756,92 @@
     ],
     "latitude": -15.6578800063479,
     "longitude": -47.69608
+  },
+  {
+    "idUnico": "21333.53-86",
+    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 BLOCO E",
+    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
+    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-08-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000B83B6BB75DF047C06DC67314059A2FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.8008200064971,
+    "longitude": -47.87786
   },
   {
     "idUnico": "21327.53-34",
@@ -10234,6 +10215,264 @@
     ]
   },
   {
+    "idUnico": "2169.53-92",
+    "nome": "Contratação direta por dispensa de licitação do remanescente do PNR bloco F, SQN 114, em Brasília-DF",
+    "cep": "1",
+    "endereco": "SHCN SQN 114 - Asa Norte, Brasília - DF",
+    "descricao": "Contratação direta por dispensa de licitação do remanescente do PNR bloco F, SQN 114, em Brasília-DF",
+    "funcaoSocial": "A finalidade da contratação é continuar com a obra de construção do Bloco F, SQN 114, com 48 apartamentos PNR. A retomada da obra e sua conclusão, no mais curto prazo possível, é extremamente importante para o Exército Brasileiro, tem em vista que os PNRs destina-se a viabilizar a movimentação de oficiais para a guarnição de Brasília, principalmente para atender às demandas dos Órgão de Direção Setorial (ODS) do Quartel General do Exército (QGEx). ",
+    "metaGlobal": "Prosseguir na construção de Bloco PNRs 48 Apartamentos - SQN 114 - Pjt 8 (REMANESCENTE)",
+    "dataInicialPrevista": "2018-08-06",
+    "dataFinalPrevista": "2021-06-21",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-05-25",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-05-25",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 30,
+        "descricao": "Desenvolvimento",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 75,
+        "descricao": "Urbanização",
+        "idTipo": 30
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000598B4F0130F247C01E973EEBFF7C2FC0",
+        "dataCriacao": "2021-05-25",
+        "origem": "Manual",
+        "dataMetadado": "2021-05-25",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 8200618.08
+      }
+    ],
+    "latitude": -15.7441400064377,
+    "longitude": -47.89209
+  },
+  {
+    "idUnico": "2174.53-44",
+    "nome": "Remanescente da obra de construção da Escola de Inteligência do Exército, Quadras, Campos e Estacionamento (EsIMEx), Brasília-DF;",
+    "cep": "1",
+    "endereco": "AI-GAB CMT EX- SMU, SMU - Brasília, DF",
+    "descricao": "Remanescente da obra de construção da Escola de Inteligência do Exército, Quadras, Campos e Estacionamento (EsIMEx), Brasília-DF;",
+    "funcaoSocial": "Construção da Escola de Inteligência do Exército, Quadras, Campos e Estacionamento (EsIMEx), Brasília-DF;",
+    "metaGlobal": "Construção da nova EsIMEx",
+    "dataInicialPrevista": "2019-02-13",
+    "dataFinalPrevista": "2021-07-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-05-26",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-05-26",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 30,
+        "descricao": "Desenvolvimento",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 75,
+        "descricao": "Urbanização",
+        "idTipo": 30
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000006DE2E47E87F647C0BFAAE99DEF872FC0",
+        "dataCriacao": "2021-05-26",
+        "origem": "cipiws",
+        "dataMetadado": "2021-05-26",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 11780477.64
+      }
+    ],
+    "latitude": -15.76550000646,
+    "longitude": -47.92601
+  },
+  {
+    "idUnico": "2167.53-68",
+    "nome": "Contratação direta por dispensa de licitação do remanescente do PNR bloco C, SQN 116, em Brasília-DF",
+    "cep": "1",
+    "endereco": "SQN 116 Bloco C, Asa Norte, Brasília - DF",
+    "descricao": "Contratação direta por dispensa de licitação do remanescente do PNR bloco C, SQN 116, em Brasília-DF",
+    "funcaoSocial": "A finalidade da contratação é continuar com a obra de construção do Bloco C, SQN 116, com 48 apartamentos PNR. A retomada da obra e sua conclusão, no mais curto prazo possível, é extremamente importante para o Exército Brasileiro, tem em vista que os PNRs destina-se a viabilizar a movimentação de oficiais para a guarnição de Brasília, principalmente para atender às demandas dos Órgão de Direção Setorial (ODS) do Quartel General do Exército (QGEx). ",
+    "metaGlobal": "Prosseguir na construção de Bloco de PNRs 48 Apartamentos - SQN 116 (REMANESCENTE)",
+    "dataInicialPrevista": "2018-08-06",
+    "dataFinalPrevista": "2021-10-19",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-05-25",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-05-25",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 30,
+        "descricao": "Desenvolvimento",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 75,
+        "descricao": "Urbanização",
+        "idTipo": 30
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000C3BB5CC477F247C0D151A708557A2FC0",
+        "dataCriacao": "2021-05-25",
+        "origem": "Manual",
+        "dataMetadado": "2021-05-25",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 13498733.34
+      }
+    ],
+    "latitude": -15.7389300064323,
+    "longitude": -47.89428
+  },
+  {
     "idUnico": "2194.53-90",
     "nome": "serviços comuns de engenharia para fins de manutenção predial com fornecimento de matérias, equipamentos e mão de obra, nas formas estabelecidas nas planilhas de serviços e insumos diversos descritos ",
     "cep": "1",
@@ -10818,178 +11057,6 @@
     ],
     "latitude": -16.0347500067453,
     "longitude": -48.05833
-  },
-  {
-    "idUnico": "2267.53-47",
-    "nome": "contratação de serviços de comum de engenharia para adequação de 17 sanitários do Estado-Maior do Exército, situados no 2º andar, 1º andar e Térreo do QGEx, Setor de Contigentes e Garagem",
-    "cep": "1",
-    "endereco": "AVENIDA DO EXÉRCITO S/N BLOCO A 3º ANDAR",
-    "descricao": "contratação de serviços de comum de engenharia para adequação de 17 sanitários do Estado-Maior do Exército, situados no 2º andar, 1º andar e Térreo do QGEx, Setor de Contigentes e Garagem",
-    "funcaoSocial": "COMANDO DO EXÉRCITO",
-    "metaGlobal": "Contratação de serviços de comum de engenharia para adequação de 17 sanitários do Estado-Maior do Exército, situados no 2º andar, 1º andar e Térreo do QGEx, Setor de Contigentes e Garagem",
-    "dataInicialPrevista": "2020-11-03",
-    "dataFinalPrevista": "2022-06-25",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-06-02",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Contratação de serviço comum de engenharia para adequação de 17 (dezessete) sanitários no Estado- Maior do Exército",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-06-02",
-    "tomadores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000BF0E9C33A2FC47C071BD7C4772892FC0",
-        "dataCriacao": "2021-06-02",
-        "origem": "cipiws",
-        "dataMetadado": "2021-06-02",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 127074.56
-      }
-    ],
-    "latitude": -15.7684500064631,
-    "longitude": -47.9737
-  },
-  {
-    "idUnico": "2294.53-70",
-    "nome": "Serviço de adequação das instalações elétricas da Diretoria de Material de Aviação do Exército (DMAvEx), em Brasília/DF.",
-    "cep": "1",
-    "endereco": "Quartel General do Exército, Bloco F, Terreo, SMU - Brasília/DF.",
-    "descricao": "Serviço de adequação das instalações elétricas da Diretoria de Material de Aviação do Exército (DMAvEx), em Brasília/DF.",
-    "funcaoSocial": "Conforme requisitos e necessidades da DMAvEx-DF para a adaptação nas instalações elétricas, após levantamento de vistoria, foi constatado que, para manutenção dos padrões elétricos da instalação, a solução mais viável seria adequar apenas as partes que não estão em conformidade com os padrões requisitados pela NBR5410/2008 e estão ultrapassadas apresentando ineficiência energética.",
-    "metaGlobal": "Adequação das instalações elétricas da DMAvEx, em Brasília/DF.",
-    "dataInicialPrevista": "2021-05-26",
-    "dataFinalPrevista": "2022-02-12",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-06-07",
-    "especie": "Recuperação",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-06-07",
-    "tomadores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA DEFESA",
-        "codigo": 41066
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 30,
-        "descricao": "Desenvolvimento",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 75,
-        "descricao": "Urbanização",
-        "idTipo": 30
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000E8D9ACFA5CF547C0C22C27A8C68B2FC0",
-        "dataCriacao": "2021-06-07",
-        "origem": "Manual",
-        "dataMetadado": "2021-06-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 38775.78
-      }
-    ],
-    "latitude": -15.7730000064679,
-    "longitude": -47.9169
   },
   {
     "idUnico": "2744.53-14",

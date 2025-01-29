@@ -76,6 +76,111 @@
     "longitude": -47.8751524777795
   },
   {
+    "idUnico": "24797.53-15",
+    "nome": "Implantação de Passarelas nas Estradas Parque do DF",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
+    "funcaoSocial": "Pedestres, no geral, demanda das ocupações lindeiras à faixa de domínio das rodovia, formando um grupo heterogêneo no sistema viário, dos quais, possuem idade e sexo distintos, além de englobarem pessoas com deficiência física e, em alguns casos, ciclistas... Os acidentes de trânsito são uma das principais causas de mortes no Brasil, sendo que o atropelamento é considerado o mais grave. Porém estes acidentes em rodovias localizadas em trechos urbanos têm aumentado. A implantação das passarelas possibilitará travessia segura, sobre as rodovias, em regiões de acentuado adensamento urbano.. Redução de acidentes por atropelamento, assim como promoção de local adequado para os usuários do sistema viário.",
+    "metaGlobal": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
+    "dataInicialPrevista": "2023-07-20",
+    "dataFinalPrevista": "2028-07-20",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-08-28",
+    "especie": "Construção",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": "Pedestres que moram nas regiões de Planaltina, Núcleo Bandeirante e Guará. ",
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-08-28",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+        "codigo": 70532000103
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DAS CIDADES",
+        "codigo": 308798
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 24,
+        "descricao": "Infraestrutura Urbana e Mobilidade",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 57,
+        "descricao": "Obra de Arte Especial",
+        "idTipo": 24
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000032207BBDFBFF47C0FEF15EB532C12FC0",
+        "dataCriacao": "2023-08-28",
+        "origem": "WKT",
+        "dataMetadado": "2023-08-28",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
+        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
+        "cepAreaExecutora": "70310-500",
+        "paisAreaExecutora": "Brasil"
+      },
+      {
+        "geometria": "0101000000A94D9CDCEFD847C0F20703CFBD372FC0",
+        "dataCriacao": "2023-08-28",
+        "origem": "WKT",
+        "dataMetadado": "2023-08-28",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
+        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
+        "cepAreaExecutora": "70310-500",
+        "paisAreaExecutora": "Brasil"
+      },
+      {
+        "geometria": "01010000004BAB21718FF947C0C3F0113125A22FC0",
+        "dataCriacao": "2023-08-28",
+        "origem": "WKT",
+        "dataMetadado": "2023-08-28",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 045182/2023 e instrumento 943681/2023",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "FAUZI NACFUR JUNIOR",
+        "enderecoAreaExecutora": "SETOR AREAS ISOLADAS NORTE, S N, BLOCO C",
+        "cepAreaExecutora": "70310-500",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 10800000
+      }
+    ],
+    "latitude": -15.87734,
+    "longitude": -47.99987
+  },
+  {
     "idUnico": "24822.53-70",
     "nome": "obra de construção da  Cabine de Medição, localizado no Setor Central do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF",
     "cep": null,
@@ -756,92 +861,6 @@
     ],
     "latitude": -15.6578800063479,
     "longitude": -47.69608
-  },
-  {
-    "idUnico": "21333.53-86",
-    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
-    "cep": "70.070-906",
-    "endereco": "SAUS quadra 2 BLOCO E",
-    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
-    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
-    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
-    "dataInicialPrevista": "2023-08-01",
-    "dataFinalPrevista": "2024-03-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-04-14",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-04-14",
-    "tomadores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "executores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000B83B6BB75DF047C06DC67314059A2FC0",
-        "dataCriacao": "2023-04-14",
-        "origem": "Manual",
-        "dataMetadado": "2023-04-14",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Instituto Federal de Brasilia",
-        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
-        "cepAreaExecutora": "70070-906",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2500000
-      }
-    ],
-    "latitude": -15.8008200064971,
-    "longitude": -47.87786
   },
   {
     "idUnico": "21327.53-34",
@@ -35835,6 +35854,758 @@
     "longitude": -47.90162
   },
   {
+    "idUnico": "50027.53-00",
+    "nome": "SETOR DE SUBSISTÊNCIA DO GAP-DF (RANCHO SUL)",
+    "cep": "71.607-900",
+    "endereco": "Área Militar do Aeroporto Internacional de Brasília - Lago Sul",
+    "descricao": "REFORMA DO SETOR DE SUBSISTÊNCIA DO GAP-DF (RANCHO SUL)",
+    "funcaoSocial": "O SETOR DE SUBSISTÊNCIA É RESPONSÁVEL PELA ALIMENTAÇÃO DOS MILITARES E CIVIS ALOCADOS NA GUARNAE DO LAGO SUL.",
+    "metaGlobal": "Melhorar as instalações do setor de subsistência do GAP-DF ( RANCHO SUL).",
+    "dataInicialPrevista": "2025-01-27",
+    "dataFinalPrevista": "2026-07-27",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-17",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-17",
+    "tomadores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      },
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      },
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      },
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000F19D98F562F447C07C16097A8DBD2FC0",
+        "dataCriacao": "2024-12-17",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-17",
+        "infoAdicionais": "Área Militar.",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "GRUPAMENTO DE APOIO DO DISTRITO FEDERAL",
+        "enderecoAreaExecutora": "Endereço: SHIS QI 05 - Area Especial 12 - Lago Sul ",
+        "cepAreaExecutora": "71615-600",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 12872579.38
+      }
+    ],
+    "latitude": -15.8702200065702,
+    "longitude": -47.90927
+  },
+  {
+    "idUnico": "50379.53-54",
+    "nome": "DL - 304/2024 - Contratação de instituição para execução de serviços técnico-especializados para realização de atualizações no Método de Dimensionamento de Pavimentos Rígidos do DNI",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Contratação de instituição para execução de serviços técnico-especializados para realização de atualizações no Método de Dimensionamento de Pavimentos Rígidos do DNI",
+    "funcaoSocial": "Ampliação da capacidade de trafego visando a melhoria da segurança do usuário",
+    "metaGlobal": "Projetos Básicos e Executivos de Engenharia",
+    "dataInicialPrevista": "2024-12-20",
+    "dataFinalPrevista": "2027-12-05",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-20",
+    "especie": "Construção",
+    "natureza": "Outros",
+    "naturezaOutras": "CONSULTORIA",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-20",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 25,
+        "descricao": "Rodovia",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 4,
+        "descricao": "Acessos Terrestres",
+        "idTipo": 25
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000C58913FF04F047C08D1DB43F73942FC0",
+        "dataCriacao": "2024-12-20",
+        "origem": "Vetorizacao",
+        "dataMetadado": "2024-12-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "FUNDAÇÃO PARA O DESENVOLVIMENTO TECNOLÓGICO DA ENGENHARIA ",
+        "enderecoAreaExecutora": "Av. Engenheiro Luis Carlos Berrini, 801 – 12º andar - Itaim Bibi ",
+        "cepAreaExecutora": "04571-901",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 44463443
+      }
+    ],
+    "latitude": -15.7899417788856,
+    "longitude": -47.8751524777795
+  },
+  {
+    "idUnico": "50514.53-45",
+    "nome": "1ª Etapa da Área Referente ao Instituto de Ciências Humanas - IH",
+    "cep": null,
+    "endereco": null,
+    "descricao": "1ª Etapa da Área Referente ao Instituto de Ciências\nHumanas - IH",
+    "funcaoSocial": "1ª Etapa da Área Referente ao Instituto de Ciências\nHumanas - IH",
+    "metaGlobal": "1ª Etapa da Área Referente ao Instituto de Ciências\nHumanas - IH\n",
+    "dataInicialPrevista": "2014-01-21",
+    "dataFinalPrevista": "2015-09-26",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-23",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-23",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000E59B6D6E4CEF47C0B03B67F5F3862FC0",
+        "dataCriacao": "2024-12-23",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-23",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "campus darcy ribeiro",
+        "cepAreaExecutora": "70900-910",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2838264.42
+      }
+    ],
+    "latitude": -15.763580006458,
+    "longitude": -47.86952
+  },
+  {
+    "idUnico": "50658.53-98",
+    "nome": "OBRA DE CONSTRUÇÃO DO ENTREPOSTO DE RESÍDUOS DA FACULDADE UnB CEILÂNDIA, LOCALIZADO NO CAMPUS UNIVERSITÁRIO DE CEILÂNDIA",
+    "cep": null,
+    "endereco": null,
+    "descricao": "OBRA DE CONSTRUÇÃO DO ENTREPOSTO DE RESÍDUOS DA FACULDADE UnB CEILÂNDIA, LOCALIZADO NO CAMPUS UNIVERSITÁRIO DE CEILÂNDIA",
+    "funcaoSocial": "Foi solicitado por meio do processo 23106.046240/2017-24 um local adequado para um correto armazenamento temporário dos resíduos perigosos na Faculdade de Ceilândia, considerando que uma das condicionantes da Licença de Instalação junto ao IBRAM (6111063) é a implantação do Plano de Gerenciamento dos Resíduos Perigosos (PGRP).\n\nFaz-se necessário que o projeto siga as recomendações técnicas das normas RDC 222/2018 da Agência Nacional de Vigilância Sanitária (ANVISA), NBR 12.809/2013 e NBR 12.235/1992 da Associação Brasileira de De Normas Técnicas (ABNT).",
+    "metaGlobal": "A elaboração dos estudos técnicos preliminares constitui a primeira etapa do planejamento de uma contratação (planejamento preliminar) e serve essencialmente para: assegurar a viabilidade técnica da contratação, bem como o tratamento de seu impacto ambiental; e embasar o termo de referência ou o projeto básico, que somente é elaborado se a contratação for considerada viável. Está disciplinado na Instrução Normativa Nº 40, de 22 maio de 2020, do Ministério da Economia.\n\nÉ na elaboração dos estudos técnicos preliminares que diversos aspectos devem ser levantados para que os gestores certifiquem-se de que existe uma necessidade de negócio claramente definida, há condições de atendê-la, os riscos de atendê-la são gerenciáveis e os resultados pretendidos com a contratação valem o preço estimado inicialmente.\n\nO objeto desta contratação é OBRA DE CONSTRUÇÃO DO ENTREPOSTO DE RESÍDUOS DA FACULDADE UnB CEILÂNDIA, localizado no Campus Universitário de Ceilândia, da Fundação Universidade de Brasília, em Brasília - DF, conforme projeto e especificações técnicas.",
+    "dataInicialPrevista": "2025-01-02",
+    "dataFinalPrevista": "2025-07-02",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-26",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-26",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000008D7F9F71E10C48C06A5FFEF99BB02FC0",
+        "dataCriacao": "2024-12-26",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-26",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "Campus Darcy Ribeiro",
+        "cepAreaExecutora": "70910-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 58766.67
+      }
+    ],
+    "latitude": -15.8449400065435,
+    "longitude": -48.10063
+  },
+  {
+    "idUnico": "50663.53-83",
+    "nome": "Obra de Construção da Praça Maior - Aula Magna",
+    "cep": null,
+    "endereco": null,
+    "descricao": "O objeto desta contratação é a construção da Praça Maior - Aula Magna da UnB, localizado no Setor Centro do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas.",
+    "funcaoSocial": "A construção de um espaço para grandes eventos é uma demanda histórica da Universidade de Brasília, já prevista nos croquis originais dos Arquitetos Oscar Niemeyer e Lúcio Costa.\n\nA demanda foi tema de concurso acadêmico promovido em 2010/2011 que resultou na proposta vencedora da equipe composta pelos arquitetos e urbanistas Matheus Gorovitz (coordenador), Cláudia Garcia, Eder Alencar e Ana Carolina Vaz, que apresentou como solução a implementação de um grande complexo destinado a convenções, que abrigue ainda espaços para hospedagem e alimentação.\n\nA intenção da proposta é possibilitar à universidade ampliar sua participação no circuito de eventos científicos e culturais do país e oferecer à comunidade maior acesso ao conhecimento e participação no debate das novas ideias.\n\nA Praça Maior é composta por três edificações, a saber, Centro de Convenções, Aula Magna e Hotel. São complementadas e articuladas pelas áreas de paisagismo, pavimentação e sistema viário, totalizando 136.521,43m² de área ocupada.\n\nConsiderando o elevado custo estimado da construção do complexo em sua totalidade, opta-se por edificar o complexo em etapas, elegendo-se inicar pela Aula Magna, visto que representa uma parcela do programa de necessidades que é capaz de suprir a necessidade imediata de disponibilizar espaços com características de desempenho adequadas à realização de eventos culturais e cerimoniais da Universidade de Brasília.\n\nA solução proposta prevê a execução parcial do projeto arquitetônico apresentado pela equipe vencedora do concurso acadêmico, com foco na execução da Aula Magna, situada na Praça Maior do Campus Universitário Darcy Ribeiro. Este espaço é composto por foyer, plateia - principal, balcão lateral, balcão superior e balcão superior lateral, cabines de som e tradução, palco, camarins, além de outras áreas técnicas e de apoio - sanitários, copa, administrativos, etc.",
+    "metaGlobal": "A construção de um espaço para grandes eventos é uma demanda histórica da Universidade de Brasília, já prevista nos croquis originais dos Arquitetos Oscar Niemeyer e Lúcio Costa.\n\nA demanda foi tema de concurso acadêmico promovido em 2010/2011 que resultou na proposta vencedora da equipe composta pelos arquitetos e urbanistas Matheus Gorovitz (coordenador), Cláudia Garcia, Eder Alencar e Ana Carolina Vaz, que apresentou como solução a implementação de um grande complexo destinado a convenções, que abrigue ainda espaços para hospedagem e alimentação.\n\nA intenção da proposta é possibilitar à universidade ampliar sua participação no circuito de eventos científicos e culturais do país e oferecer à comunidade maior acesso ao conhecimento e participação no debate das novas ideias.\n\nA Praça Maior é composta por três edificações, a saber, Centro de Convenções, Aula Magna e Hotel. São complementadas e articuladas pelas áreas de paisagismo, pavimentação e sistema viário, totalizando 136.521,43m² de área ocupada.\n\nConsiderando o elevado custo estimado da construção do complexo em sua totalidade, opta-se por edificar o complexo em etapas, elegendo-se inicar pela Aula Magna, visto que representa uma parcela do programa de necessidades que é capaz de suprir a necessidade imediata de disponibilizar espaços com características de desempenho adequadas à realização de eventos culturais e cerimoniais da Universidade de Brasília.\n\nA solução proposta prevê a execução parcial do projeto arquitetônico apresentado pela equipe vencedora do concurso acadêmico, com foco na execução da Aula Magna, situada na Praça Maior do Campus Universitário Darcy Ribeiro. Este espaço é composto por foyer, plateia - principal, balcão lateral, balcão superior e balcão superior lateral, cabines de som e tradução, palco, camarins, além de outras áreas técnicas e de apoio - sanitários, copa, administrativos, etc.",
+    "dataInicialPrevista": "2025-01-02",
+    "dataFinalPrevista": "2030-01-02",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-26",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "A obra está prevista no Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685), constante nos autos do  SEI 23106.065389/2021-99. \n\nEsta obra se enquadra no critério de priorização Ampliação da Infraestrutura Edilícia do aludido plano.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-26",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      },
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000179F02603CEF47C07B203301A4862FC0",
+        "dataCriacao": "2024-12-26",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-26",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "Campus Darcy RIbeiro",
+        "cepAreaExecutora": "70910-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 90048336.04
+      }
+    ],
+    "latitude": -15.7629700064574,
+    "longitude": -47.86903
+  },
+  {
+    "idUnico": "50791.53-30",
+    "nome": " Obra de Construção do Edifício da Faculdade de Educação 7",
+    "cep": null,
+    "endereco": null,
+    "descricao": " Obra de Construção do Edifício da Faculdade de Educação 7",
+    "funcaoSocial": "A necessidade decorre da demanda pela ampliação do espaço físico da Faculdade de Educação - FE - que permaneceu inalterada desde a conclusão da FE-1, FE-3 e FE-5.\n\nDiante da demanda, a FE constituiu, por meio do Ato 22 (Id. 9656701), a Comissão de Reestruturação dos Espaços Físicos da Faculdade de Educação da Universidade de Brasília com o objetivo de requerer estudos das plantas originais dos prédios da FE, visita aos diferentes espaços que compõem as áreas internas e externas aos prédios da FE, medições, mapeamento e desenho de croquis com a atual organização espacial e as respectivas medidas, desenhos das plantas baixas, consultas, estudos e análises que fundamentarão o parecer de reestruturação com as eventuais sugestões, pontos de atenção, de readequação/manutenção ou mudanças.\n\nA comissão realizou o levantamento arquitetônico dos espaços internos e adjacências por essa comissão e que para o início dos trabalhos, precisamos de informações atualizadas sobre o atual uso de todos os espaços dos 3 prédios que compõem a Faculdade de Educação para compor os autos desse processo e para apoiar as atividades de estudo e análise dos espaços.\n\nAlém disso, a comissão realizou:\n\n1) O levantamento de alocação e usos dos espaços físicos das unidades / prédios da Faculdade de Educação, conforme o uso e disponibilidade nas respectivas unidades institucionais e organizacionais da Faculdade de Educação elencadas a seguir:\n\n2) Ensalamento dos Prédios da FE-01, FE-03, FE-05, contendo a alocação das aulas da Graduação e da Pós-Graduação do semestre em curso e o respectivo número/endereço da sala.\n\n3) Ensalamento das salas dos professores de cada departamento da FE (MTC, PGE e TEF) com a designação das salas ocupadas para cada professor efetivo e temporário, se for o caso, bem como das salas ocupadas com materiais de professores aposentados, desligados e/ou falecidos, além de eventuais salas de professores que não estejam ocupadas com ou sem previsão/destinação de ocupação.\n",
+    "metaGlobal": "A elaboração dos estudos técnicos preliminares constitui a primeira etapa do planejamento de uma contratação (planejamento preliminar) e serve essencialmente para: assegurar a viabilidade técnica da contratação, bem como o tratamento de seu impacto ambiental; e embasar o termo de referência ou o projeto básico, que somente é elaborado se a contratação for considerada viável. Está disciplinada na Instrução Normativo Nº 40, de 22 maio de 2020, do Ministério da Economia.\n\nÉ na elaboração dos estudos técnicos preliminares que diversos aspectos devem ser levantados para que os gestores certifiquem-se de que existe uma necessidade de negócio claramente definida, há condições de atendê-la, os riscos de atendê-la são gerenciáveis e os resultados pretendidos com a contratação valem o preço estimado inicialmente.\n\nO objeto desta contratação é obra de construção do edifício FE-7, localizado no Setor Centro do Campus Universitário Darcy Ribeiro da Universidade de Brasília, em Brasília, Distrito Federal, conforme projeto e especificações técnicas.",
+    "dataInicialPrevista": "2025-01-07",
+    "dataFinalPrevista": "2028-01-07",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-27",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "A demanda em tela receberá recursos originários da Emenda de Bancada nº 71080011, constante da Lei Orçamentária Anual de 2024, foi destinada à FE (Ofício 04/2024 Dep. Prof. Reginaldo Veras 10923037 - SEI 23106.014910/2024-72), sendo obrigatória a execução orçamentária e financeira da Emenda de bancada, conforme previsto nos §§ 11 e 12, art. 166 da Constituição Federal de 1988 e no art. 77, da Lei nº 14.791, de 29 de dezembro de 2023 – Lei de Diretrizes Orçamentárias – LDO.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-27",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "CAMARA DOS DEPUTADOS",
+        "codigo": 1000
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000000F289B7285EF47C033ECF418CA892FC0",
+        "dataCriacao": "2024-12-27",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-27",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "secretaria de infraestrutura",
+        "enderecoAreaExecutora": "Campus Darcy",
+        "cepAreaExecutora": "70910-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 11996600.81
+      }
+    ],
+    "latitude": -15.7691200064638,
+    "longitude": -47.87126
+  },
+  {
+    "idUnico": "50824.53-27",
+    "nome": "CAEP 2° Etapa",
+    "cep": null,
+    "endereco": null,
+    "descricao": "CAEP 2° Etapa",
+    "funcaoSocial": "CAEP 2° Etapa",
+    "metaGlobal": "CAEP 2° Etapa",
+    "dataInicialPrevista": "2013-11-21",
+    "dataFinalPrevista": "2015-02-14",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-27",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-27",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000088635DDC46EF47C0E63E42293F892FC0",
+        "dataCriacao": "2024-12-27",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-27",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "campus darcy ribeiro ",
+        "cepAreaExecutora": "70910-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1105012.28
+      }
+    ],
+    "latitude": -15.7680600064627,
+    "longitude": -47.86935
+  },
+  {
+    "idUnico": "5083.53-46",
+    "nome": "CENARGEN - Quarentena Vegetal",
+    "cep": "70.770-917",
+    "endereco": "Parque Estação Biológica, PqEB, Av. W5 Norte (final) Caixa Postal 02372 – Brasília, DF – CEP 70770-917",
+    "descricao": "Alteração contratual para acréscimo de serviços no contrato firmado entre Embrapa Recursos Genéticos e Biotecnologia e a Construvia Serviços e Reformas Prediais Ltda para a Finalização do Prédio Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia, na licitação da Embrapa n° 002\\2020, com o número processo SEI 21195.002282/2020-71, contrato nº 22200.21/0008-0.",
+    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
+    "metaGlobal": "Alteração contratual para acréscimo de serviços no contrato firmado entre Embrapa Recursos Genéticos e Biotecnologia e a Construvia Serviços e Reformas Prediais Ltda para a Finalização do Prédio Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia, na licitação da Embrapa n° 002\\2020, com o número processo SEI 21195.002282/2020-71, contrato nº 22200.21/0008-0.",
+    "dataInicialPrevista": "2021-12-31",
+    "dataFinalPrevista": "2022-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": "2024-02-02",
+    "dataCadastro": "2021-12-08",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Concluída",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2024-02-02",
+    "tomadores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "executores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
+        "codigo": 14
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000005F650608B5F347C06368D44C69752FC0",
+        "dataCriacao": "2021-12-08",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 94595.09
+      }
+    ],
+    "latitude": -15.7293190011298,
+    "longitude": -47.9039621382933
+  },
+  {
+    "idUnico": "50835.53-40",
+    "nome": "AMPLIAÇÃO UEP-FUP",
+    "cep": null,
+    "endereco": null,
+    "descricao": "AMPLIAÇÃO UEP-FUP",
+    "funcaoSocial": "AMPLIAÇÃO UEP-FUP",
+    "metaGlobal": "AMPLIAÇÃO UEP-FUP",
+    "dataInicialPrevista": "2014-05-08",
+    "dataFinalPrevista": "2015-03-04",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-12-27",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-12-27",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000003108AC1C5AD447C04E6F83F38E332FC0",
+        "dataCriacao": "2024-12-27",
+        "origem": "Manual",
+        "dataMetadado": "2024-12-27",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de infraestrutura",
+        "enderecoAreaExecutora": "Campus darcy ribeiro",
+        "cepAreaExecutora": "70910-900",
+        "paisAreaExecutora": "brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1257464.96
+      }
+    ],
+    "latitude": -15.6007000062888,
+    "longitude": -47.659
+  },
+  {
     "idUnico": "50842.53-49",
     "nome": "ALOJAMENTO FUP",
     "cep": null,
@@ -40793,708 +41564,6 @@
     ],
     "latitude": -15.7702025029459,
     "longitude": -47.8734051018268
-  },
-  {
-    "idUnico": "6008.53-77",
-    "nome": "00 00377/2020",
-    "cep": "70040-902",
-    "endereco": " BR-010",
-    "descricao": "contrataÃ§Ã£o de empresa especializada para prestaÃ§Ã£o dos serviÃ§os de gerenciamento dos empreendimentos de construÃ§Ã£o, sob a jurisdiÃ§Ã£o do dnit, para toda a malha rodoviÃ¡ria federal da regiÃ£o nordeste.",
-    "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustentÃ¡vel do paÃ­s priorizando a seguranÃ§a, as boas condiÃ§Ãµes de trafegabilidade e a otimizaÃ§Ã£o da logÃ­stica dos transportes, elevando assim o nÃ­vel de serviÃ§o das vias.",
-    "metaGlobal": "Gerenciamento de 0 km.",
-    "dataInicialPrevista": "2020-06-25",
-    "dataFinalPrevista": "2023-12-21",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-10",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2022-05-10",
-    "tomadores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 25,
-        "descricao": "Rodovia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 4,
-        "descricao": "Acessos Terrestres",
-        "idTipo": 25
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2024-01-11",
-        "origem": "WKT",
-        "dataMetadado": "2024-01-11",
-        "infoAdicionais": "Metadado criado em 2024-01-11T15:59:25",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 30323893.32
-      }
-    ]
-  },
-  {
-    "idUnico": "6014.53-96",
-    "nome": "00 00690/2020",
-    "cep": "70040-902",
-    "endereco": " BR-010",
-    "descricao": "contrataÃ§Ã£o de empresa especializada para prestaÃ§Ã£o dos serviÃ§osde gerenciamento dos empreendimentos de construÃ§Ã£o, sob a jurisdiÃ§Ã£o do dnit, para toda a malha rodoviÃ¡ria federal da regiÃ£o centro-oeste",
-    "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustentÃ¡vel do paÃ­s priorizando a seguranÃ§a, as boas condiÃ§Ãµes de trafegabilidade e a otimizaÃ§Ã£o da logÃ­stica dos transportes, elevando assim o nÃ­vel de serviÃ§o das vias.",
-    "metaGlobal": "Gerenciamento de 0 km.",
-    "dataInicialPrevista": "2021-01-18",
-    "dataFinalPrevista": "2024-04-01",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-10",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2022-05-10",
-    "tomadores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 25,
-        "descricao": "Rodovia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 4,
-        "descricao": "Acessos Terrestres",
-        "idTipo": 25
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2024-01-11",
-        "origem": "WKT",
-        "dataMetadado": "2024-01-11",
-        "infoAdicionais": "Metadado criado em 2024-01-11T15:59:25",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 16691637.38
-      }
-    ]
-  },
-  {
-    "idUnico": "6015.53-53",
-    "nome": "00 00692/2020",
-    "cep": "70040-902",
-    "endereco": " BR-010",
-    "descricao": "prestaÃ§Ã£o dos serviÃ§os de gerenciamento dos empreendimentos de construÃ§Ã£o, sob a jurisdiÃ§Ã£o do dnit, para toda a malha rodoviÃ¡ria federal da regiÃ£o norte",
-    "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustentÃ¡vel do paÃ­s priorizando a seguranÃ§a, as boas condiÃ§Ãµes de trafegabilidade e a otimizaÃ§Ã£o da logÃ­stica dos transportes, elevando assim o nÃ­vel de serviÃ§o das vias.",
-    "metaGlobal": "Gerenciamento de 0 km.",
-    "dataInicialPrevista": "2021-01-18",
-    "dataFinalPrevista": "2024-01-02",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-10",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2022-05-10",
-    "tomadores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 25,
-        "descricao": "Rodovia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 4,
-        "descricao": "Acessos Terrestres",
-        "idTipo": 25
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2024-01-11",
-        "origem": "WKT",
-        "dataMetadado": "2024-01-11",
-        "infoAdicionais": "Metadado criado em 2024-01-11T15:59:25",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 20372397.28
-      }
-    ]
-  },
-  {
-    "idUnico": "6044.53-00",
-    "nome": "Obra de construção de novo galpão na Divisão de Gestão de Frotas – DIFRO/CGAD/DLOG/PF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Obra de construção de novo galpão na Divisão de Gestão de Frotas – DIFRO/CGAD/DLOG/PF",
-    "funcaoSocial": "Segurança Pública",
-    "metaGlobal": "Construção do galpão",
-    "dataInicialPrevista": "2022-05-30",
-    "dataFinalPrevista": "2023-08-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-12",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-05-12",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000002AA913D044F847C0D1ABF6654EA72FC0",
-        "dataCriacao": "2022-05-12",
-        "origem": "Manual",
-        "dataMetadado": "2022-05-12",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Polícia Federal",
-        "enderecoAreaExecutora": "SAS quadra 06 lotes 09/10",
-        "cepAreaExecutora": "70000-000",
-        "paisAreaExecutora": "Brasíl"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 7732907.61
-      }
-    ],
-    "latitude": -15.8267700065243,
-    "longitude": -47.9396
-  },
-  {
-    "idUnico": "6091.53-80",
-    "nome": "Retrofit da nova unidade do Ministério da Saúde - Bloco O da Esplanada dos Ministérios",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Contratação de empresa especializada em serviços técnicos de Engenharia para execução de Retrofit, com fornecimento de material, mão de obra, ferramental e todos os equipamentos necessários à perfeita realização dos serviços no Edifício denominado Bloco “O” da Esplanada dos Ministérios, em Brasília- DF. ",
-    "funcaoSocial": "Redução de custos com locações de imóveis ",
-    "metaGlobal": "Reforma concluída e redução de despesas relacionadas a locação de imóveis.",
-    "dataInicialPrevista": "2020-12-29",
-    "dataFinalPrevista": "2022-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-19",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-05-19",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "MINISTERIO DA SAUDE",
-        "codigo": 36000
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 4,
-        "descricao": "Saúde",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000369FC07C6DEF47C040DDF54060972FC0",
-        "dataCriacao": "2022-05-19",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2022-05-19",
-        "infoAdicionais": "Conforme processo 25000155325201978",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Coordenacao-Geral de Material e Patrimonio",
-        "enderecoAreaExecutora": "Ministerio da Saúde Bloco G Anexo",
-        "cepAreaExecutora": "70058-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 77950000
-      }
-    ],
-    "latitude": -15.795656232846,
-    "longitude": -47.8705287876641
-  },
-  {
-    "idUnico": "6110.53-16",
-    "nome": "RDC 0528/2021-00Elaboração de Projetos - Nacional - Lote 1,2 e 3",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Execução dos serviços técnicos especializados para o desenvolvimento de projetos de restauração rodoviária e do programa CREMA. Lote 1 - extensão: 23.807,8 km; Lote 2 - extensão 20.967,7 km e Lote 3 - extensão 19.716,3 km\n",
-    "funcaoSocial": "Restauração de rodovias.",
-    "metaGlobal": "Projetos de Recuperação de rodovias",
-    "dataInicialPrevista": "2022-06-01",
-    "dataFinalPrevista": "2027-06-01",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-20",
-    "especie": "Recuperação",
-    "natureza": "Projeto",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-05-20",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 25,
-        "descricao": "Rodovia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 4,
-        "descricao": "Acessos Terrestres",
-        "idTipo": 25
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000DD1ABBEF03F047C0BAF54E7181942FC0",
-        "dataCriacao": "2022-08-17",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2022-05-20",
-        "infoAdicionais": "Intervenção realizada no âmbito da Diretoria de Planejamento e Pesquisa do DNIT.",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "DEPTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "enderecoAreaExecutora": "SAN QD. 3 LOTE A",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 44919050.32
-      }
-    ],
-    "latitude": -15.7900500687491,
-    "longitude": -47.8751201308821
-  },
-  {
-    "idUnico": "6116.53-00",
-    "nome": "15º BPM PMDF - Estrutural",
-    "cep": "71.255-010",
-    "endereco": " Setor Central, Área Especial 01 da Cidade satélite da Estrutural - RA XXV",
-    "descricao": "Execução da obra para construção do edifício Sede do 15º Batalhão da Polícia Militar do Distrito Federal, no imóvel situado no Setor Central, Área Especial 01 da Cidade satélite da Estrutural - RA XXV.",
-    "funcaoSocial": "A construção da nova Sede do 15º Batalhão da Polícia Militar do Distrito Federal, contribuirá positivamente para a segurança pública da cidade Estrutural e entorno, bem como do Distrito Federal.",
-    "metaGlobal": "Construção do edifício do 15º BPM.\nÁREA CONSTRUÍDA 981,22m²\nTOTAL DE VAGAS 40\nÁREA DO TERRENO 1644,80m²",
-    "dataInicialPrevista": "2022-06-01",
-    "dataFinalPrevista": "2023-06-01",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-23",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-05-23",
-    "tomadores": [
-      {
-        "nome": "Polícia Militar do Distrito Federal",
-        "codigo": 8942610000116
-      }
-    ],
-    "executores": [
-      {
-        "nome": "Polícia Militar do Distrito Federal",
-        "codigo": 8942610000116
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
-        "codigo": 25915
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000097FF907EFBFE47C045DDB4CB9C8E2FC0",
-        "dataCriacao": "2022-05-23",
-        "origem": "Manual",
-        "dataMetadado": "2022-05-23",
-        "infoAdicionais": "DINFRA",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "PMDF",
-        "enderecoAreaExecutora": "SAISO",
-        "cepAreaExecutora": "70297-400",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 5431155.55
-      }
-    ],
-    "latitude": -15.7785400064737,
-    "longitude": -47.99205
-  },
-  {
-    "idUnico": "6129.53-60",
-    "nome": "Adequação do espaço junto à Imprensa Nacional",
-    "cep": "70.610-460",
-    "endereco": "Sig Quadra 06 Lote 800, S/N, Setor Grafico - Brasília",
-    "descricao": "Projeto para adequação do espaço a ser ocupado pelo Inmetro junto à Imprensa Nacional, consoante o acordo de compartilhamento celebrado em 24/05/2022.",
-    "funcaoSocial": "Acomodação da força de trabalho do Inmetro - Gabin, Dplan, Caint, Profe a ser transferida do atual prédio locado.",
-    "metaGlobal": "Transferência da força de trabalho do atual prédio locado para um espaço compartilhado em imóvel público, visando a redução de custos e otimização dos espaços em imóveis públicos, ",
-    "dataInicialPrevista": "2022-05-25",
-    "dataFinalPrevista": "2022-08-26",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-25",
-    "especie": "Reforma",
-    "natureza": "Projeto",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": true,
-    "dataSituacao": "2022-05-25",
-    "tomadores": [
-      {
-        "nome": "Instituto Nacional de Metrologia Qualidade e Tecnologia",
-        "codigo": 30203
-      },
-      {
-        "nome": "21ª Companhia de Engenharia de Construção",
-        "codigo": 7546219000130
-      }
-    ],
-    "executores": [
-      {
-        "nome": "Instituto Nacional de Metrologia Qualidade e Tecnologia",
-        "codigo": 30203
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000C669C4E2FAF447C0E35741C478952FC0",
-        "dataCriacao": "2022-05-25",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2022-05-25",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Inmetro - Divisão de Engenharia",
-        "enderecoAreaExecutora": "Av Nossa Senhora das Graças 50",
-        "cepAreaExecutora": "25250-020",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 105028.8
-      }
-    ],
-    "latitude": -15.7919370012059,
-    "longitude": -47.9139064272927
-  },
-  {
-    "idUnico": "6153.53-00",
-    "nome": "26.782.3006.7XJ0.0031",
-    "cep": "70040-902",
-    "endereco": "BR-010",
-    "descricao": "construção de trecho rodoviário - jacuí - alpinópolis - na br-265/mg",
-    "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustentável do país priorizando a segurança, as boas condições de trafegabilidade e a otimização da logística dos transportes, elevando assim o nível de serviço das vias.",
-    "metaGlobal": "Garantir dotação orçamentária para os contratos que envolvem 0 km desta rúbrica.",
-    "dataInicialPrevista": null,
-    "dataFinalPrevista": null,
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-30",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2022-05-30",
-    "tomadores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 25,
-        "descricao": "Rodovia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 4,
-        "descricao": "Acessos Terrestres",
-        "idTipo": 25
-      }
-    ],
-    "geometrias": [],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 3623770
-      }
-    ]
   },
   {
     "idUnico": "6194.53-50",

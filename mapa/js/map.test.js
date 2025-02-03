@@ -1,106 +1,84 @@
-// // Mock do Leaflet
-// global.L = {
-//     map: jest.fn(() => ({
-//         setView: jest.fn(),
-//         addLayer: jest.fn(),
-//         on: jest.fn() // Adicionamos o método 'on' aqui
-//     })),
-//     tileLayer: jest.fn(() => ({
-//         addTo: jest.fn()
-//     })),
-//     marker: jest.fn(() => ({
-//         addTo: jest.fn(),
-//         bindPopup: jest.fn() // Adicionamos o método 'bindPopup' aqui
-//     })),
-//     icon: jest.fn(),
-//     popup: jest.fn(() => ({
-//         setLatLng: jest.fn(),
-//         setContent: jest.fn(),
-//         openOn: jest.fn()
-//     }))
-// };
+const {
+    formatarBRL,
+    criarIconesDosPins,
+    verificarResposta,
+    obterDadosDasObras,
+    criarMarcador,
+    gerarConteudoDoPopup,
+    obterIconeDoMarcador,
+    processarDadosDasObras
+} = require('./map');
 
-// // Mock do document e window
+// Mock do Leaflet
+global.L = {
+    marker: jest.fn((coords, options) => {
+        // Cria um objeto marcador com os métodos addTo e bindPopup
+        const marcador = {
+            addTo: jest.fn(() => marcador), // Retorna o próprio marcador para possibilitar o encadeamento
+            bindPopup: jest.fn()
+        };
+        return marcador;
+    }),
+    icon: jest.fn()
+};
+
+// Configura o mock de L.icon para retornar o próprio objeto de configuração
+global.L.icon.mockImplementation((config) => config);
+
+// Mock do fetch
+global.fetch = jest.fn();
+
+// Mock do document
 global.document = {
     getElementById: jest.fn(() => ({})),
     addEventListener: jest.fn()
 };
-// global.window = {};
 
-// // Mock do fetch
-// global.fetch = jest.fn(() =>
-//     Promise.resolve({
-//         ok: true,
-//         json: () => Promise.resolve([
-//             {
-//                 "idUnico": "21335.53-99",
-//                 "nome": "Reforma do Centro de Múltiplas Funções do Campus São Sebastião",
-//                 "latitude": -15.8921200065933,
-//                 "longitude": -47.7786,
-//                 "situacao": "Cadastrada",
-//                 "fontesDeRecurso": [
-//                     {
-//                         "origem": "Federal",
-//                         "valorInvestimentoPrevisto": 1000000
-//                     }
-//                 ]
-//             },
-//             {
-//                 "idUnico": "21339.53-04",
-//                 "nome": "Substituição do sistema de impermeabilização nas edificações do Campus Brasília",
-//                 "latitude": -15.7539400064479,
-//                 "longitude": -47.87709,
-//                 "situacao": "Cadastrada",
-//                 "fontesDeRecurso": [
-//                     {
-//                         "origem": "Federal",
-//                         "valorInvestimentoPrevisto": 1000000
-//                     }
-//                 ]
-//             },
-//             {
-//                 "idUnico": "21341.53-30",
-//                 "nome": "Substituição do sistema de impermeabilização nas edificações do Campus Gama",
-//                 "latitude": -15.9934600067011,
-//                 "longitude": -48.05417,
-//                 "situacao": "Cadastrada",
-//                 "fontesDeRecurso": [
-//                     {
-//                         "origem": "Federal",
-//                         "valorInvestimentoPrevisto": 1000000
-//                     }
-//                 ]
-//             }
-//         ])
-//     })
-// );
+describe('Testes das funções do mapa', () => {
+    beforeEach(() => {
+        jest.clearAllMocks();
+    });
 
-// // Mock do console
-// global.console = {
-//     log: jest.fn(),
-//     error: jest.fn(),
-//     warn: jest.fn()
-// };
+    test('formatarBRL formata valores corretamente', () => {
+        expect(formatarBRL(1500.50)).toBe('R$1.500,50');
+    });
 
-// Importa a função formatarBRL diretamente do map.js
-const { formatarBRL } = require('./map.js');
+    test('criarIconesDosPins cria ícones corretamente', () => {
+        const icones = criarIconesDosPins();
+        expect(icones).toHaveProperty('concluida');
+        expect(L.icon).toHaveBeenCalledTimes(4);
+    });
 
-// Teste para a função formatarBRL
-test('formata valores em BRL corretamente', () => {
-    expect(formatarBRL(1000)).toBe('R$1.000,00');
-    expect(formatarBRL(1234.56)).toBe('R$1.234,56');
-    expect(formatarBRL(0)).toBe('R$0,00');
+    test('verificarResposta lança erro para resposta não OK', () => {
+        const resOk = { ok: true };
+        const resNok = { ok: false };
+        expect(() => verificarResposta(resNok)).toThrow();
+        expect(verificarResposta(resOk)).toBe(resOk);
+    });
+
+    test('obterIconeDoMarcador retorna ícone correto', () => {
+        const icones = criarIconesDosPins();
+        expect(obterIconeDoMarcador('Concluída', icones)).toBe(icones.concluida);
+        expect(obterIconeDoMarcador('Invalid', icones)).toBeNull();
+    });
+
+    test('gerarConteudoDoPopup gera HTML válido', () => {
+        const conteudo = gerarConteudoDoPopup('Obra Teste', 'Concluída', 'R$1.000,00');
+        expect(conteudo).toContain('<h3>Obra Teste</h3>');
+        expect(conteudo).toContain('R$1.000,00');
+    });
+
+    test('processarDadosDasObras processa dados corretamente', () => {
+        const dadosMock = [{
+            nome: 'Obra Teste',
+            situacao: 'Concluída',
+            latitude: -15.8,
+            longitude: -47.8,
+            fontesDeRecurso: [{ valorInvestimentoPrevisto: 1000 }]
+        }];
+        
+        const mapaMock = {};
+        processarDadosDasObras(dadosMock, mapaMock);
+        expect(L.marker).toHaveBeenCalled();
+    });
 });
-
-// // Teste para verificar se os pins são carregados corretamente
-// test('carrega os pins corretamente', () => {
-//     // Chama a função que carrega os pins
-//     require('./map.js');
-
-//     // Verifica se o fetch foi chamado corretamente
-//     expect(global.fetch).toHaveBeenCalledWith('./obrasgov/obras_com_lat_long.json');
-
-//     // Verifica se os marcadores foram criados corretamente
-//     expect(global.L.marker).toHaveBeenCalledTimes(1); // Agora esperamos 3 chamadas
-//     expect(global.L.marker).toHaveBeenCalledWith([-15.8921200065933, -47.7786], expect.anything());
-// });

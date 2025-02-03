@@ -2,7 +2,7 @@ name: "[CI/CD] Gera o JSON e atualiza a página"
 
 on:
   schedule:
-    - cron: '0 * * * *' # Executa o workflow a cada 3 horas
+    - cron: '0 0 * * *' # Executa o workflow a cada 3 horas
   workflow_dispatch: # Permite execução manual do workflow
 
 permissions:

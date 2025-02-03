@@ -1,0 +1,34 @@
+name: Deploy GitHub Pages
+
+on:
+    # push:
+    #   branches:
+    #     - main
+    workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Passo 1: Fazer checkout do repositório
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      # Passo 2: Configurar o GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Passo 3: Fazer upload da pasta que contém os arquivos da sua página
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './mapa'  # Atualize esse caminho caso os arquivos estejam em outro diretório
+
+      # Passo 4: Deploy para o GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

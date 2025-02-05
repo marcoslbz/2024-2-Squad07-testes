@@ -23,7 +23,7 @@ jobs:
 
       # 3. Instalar o Jest
       - name: Install Jest
-        run: npm install --no-save jest
+        run: npm install --save-dev jest
         working-directory: TestesMapa/js
 
       # 4. Executar os testes

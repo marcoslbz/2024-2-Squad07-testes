@@ -89,12 +89,15 @@ function criarMarcador(lat, lng, icone, mapa) {
 }
 
 // Função para gerar conteúdo do popup
-function gerarConteudoDoPopup(nome, situacao, valorBRL) {
+function gerarConteudoDoPopup(nome, situacao, valorBRL, indice) {
     return `
         <div>
             <h3>${nome}</h3>
             <p><strong>Situação:</strong> ${situacao}</p>
             <p><strong>Valor Previsto:</strong> ${valorBRL}</p>
+            <a href="detalhamento.html?obra=${indice}" target="_blank" style="color: blue; text-decoration: underline;">
+                        Ver detalhes
+                    </a>
         </div>
     `;
 }
@@ -115,7 +118,7 @@ function processarDadosDasObras(dados, mapa) {
     const icones = criarIconesDosPins();
     
     dados.forEach((obra, indice) => {
-        const { nome, fontesDeRecurso, latitude, longitude, situacao } = obra;
+        const { nome, fontesDeRecurso, latitude, longitude, situacao} = obra;
         
         // Validação de coordenadas
         if (!latitude || !longitude) {
@@ -135,7 +138,7 @@ function processarDadosDasObras(dados, mapa) {
         
         // Configuração do popup
         const valor = fontesDeRecurso?.[0]?.valorInvestimentoPrevisto || 0;
-        const conteudoPopup = gerarConteudoDoPopup(nome, situacao, formatarBRL(valor));
+        const conteudoPopup = gerarConteudoDoPopup(nome, situacao, formatarBRL(valor), indice);
         marcador.bindPopup(conteudoPopup);
     });
 }

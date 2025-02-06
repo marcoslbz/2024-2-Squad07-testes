@@ -154,10 +154,12 @@ function buscarObras() {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = {
         formatarBRL,
+        inicializaMapa,
         criarIconesDosPins,
         verificarResposta,
         obterDadosDasObras,
         criarMarcador,
+        buscarObras,
         gerarConteudoDoPopup,
         obterIconeDoMarcador,
         processarDadosDasObras

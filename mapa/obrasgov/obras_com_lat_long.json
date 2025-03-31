@@ -344,92 +344,6 @@
     "longitude": -47.7786
   },
   {
-    "idUnico": "8913.53-40",
-    "nome": "Reforma hidráulica da psicina",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Reforma hidráulica da piscina para utilização pelos beneficiários do PROFESP",
-    "funcaoSocial": "Reforma hidráulica da piscina para utilização pelos beneficiários do PROFESP",
-    "metaGlobal": "Reforma hidráulica da psicina",
-    "dataInicialPrevista": "2022-10-10",
-    "dataFinalPrevista": "2022-11-04",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-10-03",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Em execução",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-10-10",
-    "tomadores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "CAMARA DOS DEPUTADOS",
-        "codigo": 1000
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 38,
-        "descricao": "Esporte",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 24,
-        "descricao": "Centro Olímpico e Para-Olímpico",
-        "idTipo": 38
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000075C8CD7003EE47C0CCACDA923A912FC0",
-        "dataCriacao": "2022-10-03",
-        "origem": "Manual",
-        "dataMetadado": "2022-10-03",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Grupamento de Fuzileiros Navais de Brasilia",
-        "enderecoAreaExecutora": "Via L4 Norte, Lote 01, Trecho 2, SCEN ",
-        "cepAreaExecutora": "70800-120",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 17500
-      }
-    ],
-    "latitude": -15.783650006479,
-    "longitude": -47.85948
-  },
-  {
     "idUnico": "21339.53-04",
     "nome": "Substituição do sistema de impermeabilização nas edificações do Campus Brasília",
     "cep": "70.830-450",
@@ -774,79 +688,175 @@
     "longitude": -48.10274
   },
   {
-    "idUnico": "6044.53-00",
-    "nome": "Obra de construção de novo galpão na Divisão de Gestão de Frotas – DIFRO/CGAD/DLOG/PF",
+    "idUnico": "8913.53-40",
+    "nome": "Reforma hidráulica da psicina",
     "cep": null,
     "endereco": null,
-    "descricao": "Obra de construção de novo galpão na Divisão de Gestão de Frotas – DIFRO/CGAD/DLOG/PF",
-    "funcaoSocial": "Segurança Pública",
-    "metaGlobal": "Construção do galpão",
-    "dataInicialPrevista": "2022-05-30",
-    "dataFinalPrevista": "2023-08-31",
+    "descricao": "Reforma hidráulica da piscina para utilização pelos beneficiários do PROFESP",
+    "funcaoSocial": "Reforma hidráulica da piscina para utilização pelos beneficiários do PROFESP",
+    "metaGlobal": "Reforma hidráulica da psicina",
+    "dataInicialPrevista": "2022-10-10",
+    "dataFinalPrevista": "2022-11-04",
     "dataInicialEfetiva": null,
     "dataFinalEfetiva": null,
-    "dataCadastro": "2022-05-12",
-    "especie": "Construção",
+    "dataCadastro": "2022-10-03",
+    "especie": "Reforma",
     "natureza": "Obra",
     "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
+    "situacao": "Em execução",
+    "descPlanoNacionalPoliticaVinculado": null,
     "uf": "DF",
     "qdtEmpregosGerados": null,
     "descPopulacaoBeneficiada": null,
     "populacaoBeneficiada": null,
     "observacoesPertinentes": null,
     "isModeladaPorBim": false,
-    "dataSituacao": "2022-05-12",
-    "tomadores": [],
-    "executores": [
+    "dataSituacao": "2022-10-10",
+    "tomadores": [
       {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
       }
     ],
-    "repassadores": [],
+    "executores": [
+      {
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "CAMARA DOS DEPUTADOS",
+        "codigo": 1000
+      }
+    ],
     "eixos": [
       {
-        "id": 1,
-        "descricao": "Administrativo"
+        "id": 4,
+        "descricao": "Social"
       }
     ],
     "tipos": [
       {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
+        "id": 38,
+        "descricao": "Esporte",
+        "idEixo": 4
       }
     ],
     "subTipos": [
       {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
+        "id": 24,
+        "descricao": "Centro Olímpico e Para-Olímpico",
+        "idTipo": 38
       }
     ],
     "geometrias": [
       {
-        "geometria": "01010000002AA913D044F847C0D1ABF6654EA72FC0",
-        "dataCriacao": "2022-05-12",
+        "geometria": "010100000075C8CD7003EE47C0CCACDA923A912FC0",
+        "dataCriacao": "2022-10-03",
         "origem": "Manual",
-        "dataMetadado": "2022-05-12",
+        "dataMetadado": "2022-10-03",
         "infoAdicionais": "",
         "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Polícia Federal",
-        "enderecoAreaExecutora": "SAS quadra 06 lotes 09/10",
-        "cepAreaExecutora": "70000-000",
-        "paisAreaExecutora": "Brasíl"
+        "nomeAreaExecutora": "Grupamento de Fuzileiros Navais de Brasilia",
+        "enderecoAreaExecutora": "Via L4 Norte, Lote 01, Trecho 2, SCEN ",
+        "cepAreaExecutora": "70800-120",
+        "paisAreaExecutora": "Brasil"
       }
     ],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
-        "valorInvestimentoPrevisto": 7732907.61
+        "valorInvestimentoPrevisto": 17500
       }
     ],
-    "latitude": -15.8267700065243,
-    "longitude": -47.9396
+    "latitude": -15.783650006479,
+    "longitude": -47.85948
+  },
+  {
+    "idUnico": "2729.53-94",
+    "nome": "Ampliação e Reforma do Hospital Naval de Brasília",
+    "cep": "1",
+    "endereco": "SEPS Q 711/911 - Asa Sul, Brasília - DF",
+    "descricao": "CONTRATAÇÃO INTEGRADA de empresa especializada em construção civil para realizar a prestação de serviços de REFORMA E AMPLIAÇÃO DO HOSPITAL NAVAL DE BRASÍLIA – HNBra, incluindo a elaboração de projetos básicos e executivos de arquitetura e engenharia, planos e programas ambientais visando a minimização dos impactos ambientais do novo hospital. O detalhamento encontra-se no RDC 01/2019 deste Hospital.",
+    "funcaoSocial": "Atendimento à Família Naval.",
+    "metaGlobal": "Expansão física das instalações e, com isso, passaremos a disponibilizar uma gama muito maior de consultas e procedimentos, inclusive aqueles com valor agregado muito alto, como no caso de internações (nos seus diversos níveis de complexidade).",
+    "dataInicialPrevista": "2020-01-20",
+    "dataFinalPrevista": "2023-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-06-22",
+    "especie": "Ampliação",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Concluída",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2023-03-31",
+    "tomadores": [
+      {
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
+      }
+    ],
+    "eixos": [
+      {
+        "id": 2,
+        "descricao": "Militar"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 18,
+        "descricao": "Saúde",
+        "idEixo": 2
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 47,
+        "descricao": "Instituições Hospitalares Federais",
+        "idTipo": 18
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000DF7EE1E519F547C0F64937D846A12FC0",
+        "dataCriacao": "2021-06-22",
+        "origem": "cipiws",
+        "dataMetadado": "2021-06-22",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 27792850.24
+      }
+    ],
+    "latitude": -15.8149936263553,
+    "longitude": -47.914852843385
   }
 ]
